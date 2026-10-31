@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Torq Bishop | D837 20:50 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| migrate to typed API client | Engineering | Juno Ito | D837 22:05 | `work-assets/engineering/migrate-to-typed-api-client.md` |
