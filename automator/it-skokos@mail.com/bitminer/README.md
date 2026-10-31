@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Juno Ito | D837 22:05 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| benchmark vector store options | Research | Flashy Swift | D837 23:35 | `work-assets/research/benchmark-vector-store-options.md` |
