@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Kaelen Thorne | D837 09:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| split monolith module | Engineering | Mint Reyes | D837 10:35 | `work-assets/engineering/split-monolith-module.md` |
