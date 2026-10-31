@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| fuzz the import endpoint | QA | Sable Marlow | D838 00:30 | `work-assets/qa/fuzz-the-import-endpoint.md` |
+| brief the case-study post | Marketing | Kilo Bishop | D838 01:45 | `work-assets/marketing/brief-the-case-study-post.md` |
