@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Cipher Reyes | D837 13:10 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| cache hot query path | Engineering | Volt Petrov | D837 14:20 | `work-assets/engineering/cache-hot-query-path.md` |
