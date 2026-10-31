@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Halo Fontaine | D837 11:55 | `work-assets/engineering/split-monolith-module.md` |
+| prototype embeddings dedupe | Research | Cipher Reyes | D837 13:10 | `work-assets/research/prototype-embeddings-dedupe.md` |
