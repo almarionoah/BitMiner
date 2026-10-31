@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Kilo Bishop | D838 01:45 | `work-assets/marketing/brief-the-case-study-post.md` |
+| benchmark vector store options | Research | Pixel Van Dyk | D839 00:00 | `work-assets/research/benchmark-vector-store-options.md` |
