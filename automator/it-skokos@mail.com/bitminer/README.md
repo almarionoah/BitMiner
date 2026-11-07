@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Reyes | D849 05:45 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| brief the case-study post | Marketing | Jax Fontaine | D849 07:15 | `work-assets/marketing/brief-the-case-study-post.md` |
