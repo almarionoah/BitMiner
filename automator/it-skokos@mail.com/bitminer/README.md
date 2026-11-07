@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Turbo Terry | D857 06:05 | `work-assets/design/mobile-nav-overhaul.md` |
+| harden CI pipeline | DevOps | Kilo Hale | D857 07:25 | `work-assets/devops/harden-ci-pipeline.md` |
