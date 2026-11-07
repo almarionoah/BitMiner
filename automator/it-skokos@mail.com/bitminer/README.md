@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Mint Reyes | D844 06:45 | `work-assets/engineering/cache-hot-query-path.md` |
+| refactor auth service | Engineering | Pixel Bishop | D844 07:55 | `work-assets/engineering/refactor-auth-service.md` |
