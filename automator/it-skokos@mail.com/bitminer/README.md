@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Marlow | D820 00:40 | `work-assets/engineering/refactor-auth-service.md` |
+| spin up comparison landing page | Marketing | Ash Fontaine | D820 02:00 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
