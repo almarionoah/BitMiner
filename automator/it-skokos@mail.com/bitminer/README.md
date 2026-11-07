@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Van Dyk | D842 00:25 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| add retry queue to job runner | Engineering | Cipher Van Dyk | D842 01:40 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
