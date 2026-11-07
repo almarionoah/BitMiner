@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Rune Hale | D852 12:10 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| split monolith module | Engineering | Cipher Van Dyk | D852 13:30 | `work-assets/engineering/split-monolith-module.md` |
