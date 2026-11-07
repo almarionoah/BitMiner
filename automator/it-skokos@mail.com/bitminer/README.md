@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Nyx Okafor | D863 11:40 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| refactor auth service | Engineering | Byte Ito | D863 12:55 | `work-assets/engineering/refactor-auth-service.md` |
