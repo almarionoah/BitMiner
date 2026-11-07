@@ -1,21 +1,21 @@
 # cache hot query path
-**Author:** Byte Ito  
+**Author:** Vex Cross  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D828 09:55  
+**Produced:** D829 15:10  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for cache hot query path, produced by Byte Ito on persona credits.
+Engineering deliverable for cache hot query path, produced by Vex Cross on persona credits.
 
 ## Deliverable
 ```
 # cache hot query path
-Author: Byte Ito (Engineering, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Vex Cross (Engineering, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: UX romantic.
+Working style applied: docs evangelist.
 ## Brief
-cache hot query path. Delivered on persona credits from Byte Ito's own allowance.
+cache hot query path. Delivered on persona credits from Vex Cross's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ cache hot query path. Delivered on persona credits from Byte Ito's own allowance
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Byte Ito. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Vex Cross. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
