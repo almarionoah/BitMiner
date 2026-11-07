@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Mint Petrov | D821 09:10 | `work-assets/marketing/schedule-changelog-blast.md` |
+| split monolith module | Engineering | Nova Cross | D821 10:20 | `work-assets/engineering/split-monolith-module.md` |
