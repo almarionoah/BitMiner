@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| expand regression suite | QA | Flashy Swift | D823 23:50 | `work-assets/qa/expand-regression-suite.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D824 07:55 | `work-assets/engineering/split-monolith-module.md` |
