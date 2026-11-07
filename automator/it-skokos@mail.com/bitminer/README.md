@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Reyes | D862 16:50 | `work-assets/engineering/refactor-auth-service.md` |
+| cache hot query path | Engineering | Vex Cross | D862 19:20 | `work-assets/engineering/cache-hot-query-path.md` |
