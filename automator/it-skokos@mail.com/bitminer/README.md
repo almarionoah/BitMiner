@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Rune Hale | D837 11:20 | `work-assets/marketing/brief-the-case-study-post.md` |
+| spin up comparison landing page | Marketing | Rune Hale | D837 12:30 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
