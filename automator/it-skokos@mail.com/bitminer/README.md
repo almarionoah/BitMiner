@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D860 09:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| triage flaky specs | QA | Cipher Reyes | D860 10:40 | `work-assets/qa/triage-flaky-specs.md` |
