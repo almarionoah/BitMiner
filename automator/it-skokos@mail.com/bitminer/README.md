@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Cipher Bishop | D863 15:50 | `work-assets/design/build-component-tokens.md` |
+| add retry queue to job runner | Engineering | Lyra Van Dyk | D863 17:05 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
