@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Vex Hale | D844 03:00 | `work-assets/research/survey-competitor-release-notes.md` |
+| cache hot query path | Engineering | Vex Cross | D844 04:20 | `work-assets/engineering/cache-hot-query-path.md` |
