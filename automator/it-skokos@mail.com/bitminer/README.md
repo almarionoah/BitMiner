@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Torq Hale | D820 15:50 | `work-assets/devops/wire-log-tracing.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D820 17:10 | `work-assets/engineering/refactor-auth-service.md` |
