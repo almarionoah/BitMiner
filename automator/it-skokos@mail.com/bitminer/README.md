@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Lyra Van Dyk | D859 14:35 | `work-assets/engineering/refactor-auth-service.md` |
+| add retry queue to job runner | Engineering | Vex Cross | D859 15:55 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
