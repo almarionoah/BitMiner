@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Rune Hale | D834 14:20 | `work-assets/marketing/brief-the-case-study-post.md` |
+| add retry queue to job runner | Engineering | Mint Van Dyk | D834 16:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
