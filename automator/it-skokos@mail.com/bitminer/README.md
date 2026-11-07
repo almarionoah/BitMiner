@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Vex Hale | D856 01:10 | `work-assets/research/survey-competitor-release-notes.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D856 02:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
