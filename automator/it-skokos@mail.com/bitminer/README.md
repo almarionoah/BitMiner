@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Mint Reyes | D854 03:50 | `work-assets/engineering/cache-hot-query-path.md` |
+| schedule changelog blast | Marketing | Rune Hale | D854 05:00 | `work-assets/marketing/schedule-changelog-blast.md` |
