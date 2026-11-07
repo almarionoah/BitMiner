@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Vex Cross | D844 04:20 | `work-assets/engineering/cache-hot-query-path.md` |
+| expand regression suite | QA | Kilo Fontaine | D844 05:30 | `work-assets/qa/expand-regression-suite.md` |
