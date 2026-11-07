@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Jax Fontaine | D835 17:15 | `work-assets/marketing/brief-the-case-study-post.md` |
+| cache hot query path | Engineering | Vex Cross | D835 19:40 | `work-assets/engineering/cache-hot-query-path.md` |
