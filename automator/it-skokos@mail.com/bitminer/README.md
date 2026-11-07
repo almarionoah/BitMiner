@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Mint Reyes | D857 18:25 | `work-assets/engineering/cache-hot-query-path.md` |
+| prototype embeddings dedupe | Research | Vex Hale | D857 20:50 | `work-assets/research/prototype-embeddings-dedupe.md` |
