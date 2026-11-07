@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Cipher Bishop | D838 23:25 | `work-assets/marketing/draft-launch-announcement.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D839 00:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
