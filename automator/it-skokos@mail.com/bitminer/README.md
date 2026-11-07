@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Byte Ito | D852 17:25 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| split monolith module | Engineering | Byte Ito | D852 18:45 | `work-assets/engineering/split-monolith-module.md` |
