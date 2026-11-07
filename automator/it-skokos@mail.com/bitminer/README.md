@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Lyra Van Dyk | D861 12:15 | `work-assets/engineering/cache-hot-query-path.md` |
+| schedule changelog blast | Marketing | Cipher Bishop | D861 13:30 | `work-assets/marketing/schedule-changelog-blast.md` |
