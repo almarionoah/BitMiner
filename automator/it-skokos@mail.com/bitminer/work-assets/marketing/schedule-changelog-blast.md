@@ -1,21 +1,21 @@
 # schedule changelog blast
-**Author:** Mint Reyes  
+**Author:** Jax Fontaine  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D858 07:00  
+**Produced:** D860 23:45  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for schedule changelog blast, produced by Mint Reyes on persona credits.
+Marketing deliverable for schedule changelog blast, produced by Jax Fontaine on persona credits.
 
 ## Deliverable
 ```
 # schedule changelog blast
-Author: Mint Reyes (Marketing, o3 mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Jax Fontaine (Marketing, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: UX romantic.
+Working style applied: pragmatic shipper.
 ## Brief
-schedule changelog blast. Delivered on persona credits from Mint Reyes's own allowance.
+schedule changelog blast. Delivered on persona credits from Jax Fontaine's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ schedule changelog blast. Delivered on persona credits from Mint Reyes's own all
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Mint Reyes. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Jax Fontaine. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
