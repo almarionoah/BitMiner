@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Mint Van Dyk | D830 02:10 | `work-assets/engineering/cache-hot-query-path.md` |
+| migrate to typed API client | Engineering | Cipher Van Dyk | D830 03:25 | `work-assets/engineering/migrate-to-typed-api-client.md` |
