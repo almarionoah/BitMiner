@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Nyx Okafor | D858 02:05 | `work-assets/research/study-churn-signals.md` |
+| brief the case-study post | Marketing | Rune Hale | D858 03:15 | `work-assets/marketing/brief-the-case-study-post.md` |
