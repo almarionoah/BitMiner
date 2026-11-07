@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Nyx Okafor | D850 06:25 | `work-assets/research/study-churn-signals.md` |
+| draft launch announcement | Marketing | Lyra Nkosi | D850 07:35 | `work-assets/marketing/draft-launch-announcement.md` |
