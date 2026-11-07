@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| load-test checkout | QA | Torq Hale | D837 07:35 | `work-assets/qa/load-test-checkout.md` |
+| refactor auth service | Engineering | Cipher Van Dyk | D837 08:55 | `work-assets/engineering/refactor-auth-service.md` |
