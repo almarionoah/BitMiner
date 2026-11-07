@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Onyx Hale | D827 15:25 | `work-assets/research/survey-competitor-release-notes.md` |
+| split monolith module | Engineering | Mint Reyes | D827 16:45 | `work-assets/engineering/split-monolith-module.md` |
