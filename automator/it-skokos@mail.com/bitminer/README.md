@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Torq Nkosi | D822 05:20 | `work-assets/marketing/schedule-changelog-blast.md` |
+| add blue/green deploy | DevOps | Echo Hale | D822 06:30 | `work-assets/devops/add-blue-green-deploy.md` |
