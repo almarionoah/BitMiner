@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Kilo Reyes | D827 01:45 | `work-assets/marketing/draft-launch-announcement.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D827 03:00 | `work-assets/engineering/migrate-to-typed-api-client.md` |
