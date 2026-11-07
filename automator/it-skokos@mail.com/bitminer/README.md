@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| expand regression suite | QA | Rune Reyes | D854 12:20 | `work-assets/qa/expand-regression-suite.md` |
+| cache hot query path | Engineering | Byte Ito | D854 13:30 | `work-assets/engineering/cache-hot-query-path.md` |
