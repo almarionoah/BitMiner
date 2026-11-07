@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Reyes | D830 13:25 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| triage flaky specs | QA | Torq Hale | D830 14:40 | `work-assets/qa/triage-flaky-specs.md` |
