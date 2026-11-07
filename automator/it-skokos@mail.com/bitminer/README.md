@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| load-test checkout | QA | Onyx Nkosi | D838 13:15 | `work-assets/qa/load-test-checkout.md` |
+| spin up comparison landing page | Marketing | Cipher Bishop | D838 14:30 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
