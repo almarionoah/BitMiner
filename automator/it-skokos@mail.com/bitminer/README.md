@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| harden CI pipeline | DevOps | Kilo Hale | D842 23:55 | `work-assets/devops/harden-ci-pipeline.md` |
+| benchmark vector store options | Research | Vex Hale | D843 01:05 | `work-assets/research/benchmark-vector-store-options.md` |
