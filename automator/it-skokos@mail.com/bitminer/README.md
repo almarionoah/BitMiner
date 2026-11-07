@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Reyes | D843 02:20 | `work-assets/engineering/refactor-auth-service.md` |
+| cut a 30s product demo | Marketing | Nyx Nkosi | D843 03:30 | `work-assets/marketing/cut-a-30s-product-demo.md` |
