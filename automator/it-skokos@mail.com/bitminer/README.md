@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Rune Hale | D824 15:00 | `work-assets/marketing/brief-the-case-study-post.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D824 16:10 | `work-assets/engineering/migrate-to-typed-api-client.md` |
