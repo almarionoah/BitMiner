@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Sable Hale | D849 03:10 | `work-assets/engineering/refactor-auth-service.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D849 05:45 | `work-assets/engineering/migrate-to-typed-api-client.md` |
