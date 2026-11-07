@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Rune Hale | D825 10:05 | `work-assets/marketing/draft-launch-announcement.md` |
+| schedule changelog blast | Marketing | Cipher Bishop | D825 11:25 | `work-assets/marketing/schedule-changelog-blast.md` |
