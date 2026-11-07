@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| load-test checkout | QA | Cipher Reyes | D847 15:30 | `work-assets/qa/load-test-checkout.md` |
+| study churn signals | Research | Nyx Hale | D847 16:45 | `work-assets/research/study-churn-signals.md` |
