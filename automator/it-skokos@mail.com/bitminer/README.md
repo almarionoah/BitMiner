@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Vex Hale | D826 08:25 | `work-assets/research/evaluate-model-routing-costs.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D826 09:55 | `work-assets/engineering/split-monolith-module.md` |
