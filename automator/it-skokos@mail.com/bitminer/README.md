@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Rune Hale | D835 07:25 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D835 10:05 | `work-assets/engineering/refactor-auth-service.md` |
