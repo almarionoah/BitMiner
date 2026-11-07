@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Kilo Hale | D860 08:15 | `work-assets/devops/wire-log-tracing.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D860 09:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
