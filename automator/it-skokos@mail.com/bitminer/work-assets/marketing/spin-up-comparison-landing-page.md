@@ -1,21 +1,21 @@
 # spin up comparison landing page
-**Author:** Ash Fontaine  
+**Author:** Jax Ito  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D820 02:00  
+**Produced:** D820 19:40  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for spin up comparison landing page, produced by Ash Fontaine on persona credits.
+Marketing deliverable for spin up comparison landing page, produced by Jax Ito on persona credits.
 
 ## Deliverable
 ```
 # spin up comparison landing page
-Author: Ash Fontaine (Marketing, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Jax Ito (Marketing, GPT-5) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: pragmatic shipper.
+Working style applied: UX romantic.
 ## Brief
-spin up comparison landing page. Delivered on persona credits from Ash Fontaine's own allowance.
+spin up comparison landing page. Delivered on persona credits from Jax Ito's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ spin up comparison landing page. Delivered on persona credits from Ash Fontaine'
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Ash Fontaine. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Jax Ito. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
