@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Jax Fontaine | D845 16:15 | `work-assets/marketing/schedule-changelog-blast.md` |
+| cut container image size | DevOps | Kilo Hale | D845 17:25 | `work-assets/devops/cut-container-image-size.md` |
