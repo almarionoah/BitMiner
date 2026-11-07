@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Vex Cross | D852 10:55 | `work-assets/engineering/split-monolith-module.md` |
+| spin up comparison landing page | Marketing | Rune Hale | D852 12:10 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
