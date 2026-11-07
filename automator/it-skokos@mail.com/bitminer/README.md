@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D824 22:10 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| brief the case-study post | Marketing | Rune Hale | D824 23:20 | `work-assets/marketing/brief-the-case-study-post.md` |
