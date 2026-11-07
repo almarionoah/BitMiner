@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Volt Van Dyk | D820 12:30 | `work-assets/design/simplify-dashboard-density.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D820 20:55 | `work-assets/engineering/cache-hot-query-path.md` |
