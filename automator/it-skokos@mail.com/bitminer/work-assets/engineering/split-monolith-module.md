@@ -1,21 +1,21 @@
 # split monolith module
-**Author:** Halo Fontaine  
+**Author:** Jax Cross  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D837 11:55  
+**Produced:** D820 22:15  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for split monolith module, produced by Halo Fontaine on persona credits.
+Engineering deliverable for split monolith module, produced by Jax Cross on persona credits.
 
 ## Deliverable
 ```
 # split monolith module
-Author: Halo Fontaine (Engineering, GPT-4o) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Jax Cross (Engineering, Gemini 3.1 Flash-Lite) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: edge-case archaeologist.
+Working style applied: security paranoid.
 ## Brief
-split monolith module. Delivered on persona credits from Halo Fontaine's own allowance.
+split monolith module. Delivered on persona credits from Jax Cross's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ split monolith module. Delivered on persona credits from Halo Fontaine's own all
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Halo Fontaine. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Jax Cross. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
