@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Cipher Bishop | D841 11:00 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| migrate to typed API client | Engineering | Vex Cross | D841 12:10 | `work-assets/engineering/migrate-to-typed-api-client.md` |
