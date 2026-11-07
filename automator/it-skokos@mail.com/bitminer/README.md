@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| expand regression suite | QA | Kilo Fontaine | D844 05:30 | `work-assets/qa/expand-regression-suite.md` |
+| cache hot query path | Engineering | Mint Reyes | D844 06:45 | `work-assets/engineering/cache-hot-query-path.md` |
