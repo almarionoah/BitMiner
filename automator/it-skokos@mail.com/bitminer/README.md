@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Nyx Reyes | D860 15:00 | `work-assets/design/build-component-tokens.md` |
+| split monolith module | Engineering | Vex Cross | D860 16:15 | `work-assets/engineering/split-monolith-module.md` |
