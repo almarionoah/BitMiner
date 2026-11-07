@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Jax Ito | D820 19:40 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| brief the case-study post | Marketing | Sable Hale | D820 20:50 | `work-assets/marketing/brief-the-case-study-post.md` |
