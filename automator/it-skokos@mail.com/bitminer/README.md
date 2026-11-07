@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Lyra Van Dyk | D863 02:40 | `work-assets/engineering/split-monolith-module.md` |
+| add retry queue to job runner | Engineering | Byte Ito | D863 05:10 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
