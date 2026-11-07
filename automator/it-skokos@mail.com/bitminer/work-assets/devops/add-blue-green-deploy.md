@@ -1,21 +1,21 @@
 # add blue/green deploy
-**Author:** Torq Hale  
+**Author:** Echo Hale  
 **Department:** DevOps  
 **Project:** BitMiner  
-**Produced:** D821 20:30  
+**Produced:** D822 06:30  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-DevOps deliverable for add blue/green deploy, produced by Torq Hale on persona credits.
+DevOps deliverable for add blue/green deploy, produced by Echo Hale on persona credits.
 
 ## Deliverable
 ```
 # add blue/green deploy
-Author: Torq Hale (DevOps, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Echo Hale (DevOps, Gemini 3.7 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: pragmatic shipper.
+Working style applied: latency hunter.
 ## Brief
-add blue/green deploy. Delivered on persona credits from Torq Hale's own allowance.
+add blue/green deploy. Delivered on persona credits from Echo Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ add blue/green deploy. Delivered on persona credits from Torq Hale's own allowan
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Torq Hale. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
+Reviewed by Echo Hale. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
 ```
