@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Pixel Fontaine | D820 13:25 | `work-assets/marketing/schedule-changelog-blast.md` |
+| add retry queue to job runner | Engineering | Lyra Van Dyk | D820 14:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
