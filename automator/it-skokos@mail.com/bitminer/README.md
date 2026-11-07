@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Cipher Bishop | D833 06:05 | `work-assets/marketing/brief-the-case-study-post.md` |
+| survey competitor release notes | Research | Vex Hale | D833 07:20 | `work-assets/research/survey-competitor-release-notes.md` |
