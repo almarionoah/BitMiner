@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Sable Hale | D846 07:15 | `work-assets/engineering/cache-hot-query-path.md` |
+| autoscale worker pool | DevOps | Kilo Hale | D846 12:40 | `work-assets/devops/autoscale-worker-pool.md` |
