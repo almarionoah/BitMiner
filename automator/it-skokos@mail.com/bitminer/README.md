@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Sable Hale | D842 19:00 | `work-assets/engineering/cache-hot-query-path.md` |
+| add retry queue to job runner | Engineering | Vex Cross | D842 20:15 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
