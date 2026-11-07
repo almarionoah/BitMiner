@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Rune Hale | D845 05:05 | `work-assets/marketing/brief-the-case-study-post.md` |
+| split monolith module | Engineering | Mint Reyes | D845 07:30 | `work-assets/engineering/split-monolith-module.md` |
