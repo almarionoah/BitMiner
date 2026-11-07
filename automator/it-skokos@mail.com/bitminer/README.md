@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Van Dyk | D854 02:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| cache hot query path | Engineering | Mint Reyes | D854 03:50 | `work-assets/engineering/cache-hot-query-path.md` |
