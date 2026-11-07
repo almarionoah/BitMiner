@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Jax Fontaine | D847 00:05 | `work-assets/marketing/schedule-changelog-blast.md` |
+| refactor auth service | Engineering | Cipher Van Dyk | D847 01:15 | `work-assets/engineering/refactor-auth-service.md` |
