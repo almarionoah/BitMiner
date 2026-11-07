@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Byte Ito | D863 12:55 | `work-assets/engineering/refactor-auth-service.md` |
+| migrate to typed API client | Engineering | Vex Cross | D863 14:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
