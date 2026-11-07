@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Rune Hale | D857 11:00 | `work-assets/marketing/draft-launch-announcement.md` |
+| draft launch announcement | Marketing | Kilo Reyes | D857 12:15 | `work-assets/marketing/draft-launch-announcement.md` |
