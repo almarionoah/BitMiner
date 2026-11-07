@@ -1,21 +1,21 @@
 # draft launch announcement
-**Author:** Lyra Nkosi  
+**Author:** Rune Hale  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D850 07:35  
+**Produced:** D852 08:30  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for draft launch announcement, produced by Lyra Nkosi on persona credits.
+Marketing deliverable for draft launch announcement, produced by Rune Hale on persona credits.
 
 ## Deliverable
 ```
 # draft launch announcement
-Author: Lyra Nkosi (Marketing, o4-mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Rune Hale (Marketing, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: cost cutter.
+Working style applied: security paranoid.
 ## Brief
-draft launch announcement. Delivered on persona credits from Lyra Nkosi's own allowance.
+draft launch announcement. Delivered on persona credits from Rune Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ draft launch announcement. Delivered on persona credits from Lyra Nkosi's own al
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Lyra Nkosi. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Rune Hale. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
