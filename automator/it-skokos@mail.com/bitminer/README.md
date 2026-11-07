@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Lyra Ito | D840 00:45 | `work-assets/engineering/split-monolith-module.md` |
+| add blue/green deploy | DevOps | Kilo Hale | D840 03:10 | `work-assets/devops/add-blue-green-deploy.md` |
