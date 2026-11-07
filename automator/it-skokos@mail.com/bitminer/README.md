@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Halo Van Dyk | D820 01:40 | `work-assets/marketing/brief-the-case-study-post.md` |
+| brief the case-study post | Marketing | Byte Cross | D820 02:55 | `work-assets/marketing/brief-the-case-study-post.md` |
