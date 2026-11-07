@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Cipher Bishop | D832 05:05 | `work-assets/marketing/schedule-changelog-blast.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D832 07:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
