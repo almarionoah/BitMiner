@@ -1,24 +1,25 @@
 # add retry queue to job runner
-**Author:** Byte Ito  
+**Author:** Mint Reyes  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D829 21:15  
-**Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
+**Produced:** D830 13:25  
+**Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Data Contract), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for add retry queue to job runner, produced by Byte Ito on persona credits.
+Engineering deliverable for add retry queue to job runner, produced by Mint Reyes on persona credits.
 
 ## Deliverable
 ```
 # add retry queue to job runner
-Author: Byte Ito (Engineering, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Mint Reyes (Engineering, Gemini 3.1 Flash-Lite) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: UX romantic.
+Working style applied: edge-case archaeologist.
 ## Brief
-add retry queue to job runner. Delivered on persona credits from Byte Ito's own allowance.
+add retry queue to job runner. Delivered on persona credits from Mint Reyes's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
+- Business Document: Data Contract — applied directly to this task.
 - Business Document: Company Document — applied directly to this task.
 ## Work completed
 1. Reviewed the task scope and the Engineering standards in force on BitMiner.
@@ -26,5 +27,5 @@ add retry queue to job runner. Delivered on persona credits from Byte Ito's own 
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Byte Ito. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Mint Reyes. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
