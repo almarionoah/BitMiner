@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Lyra Van Dyk | D855 02:05 | `work-assets/engineering/cache-hot-query-path.md` |
+| study churn signals | Research | Onyx Hale | D855 03:15 | `work-assets/research/study-churn-signals.md` |
