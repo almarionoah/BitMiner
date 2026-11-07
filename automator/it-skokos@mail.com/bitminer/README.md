@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| benchmark vector store options | Research | Onyx Hale | D830 15:55 | `work-assets/research/benchmark-vector-store-options.md` |
+| evaluate model routing costs | Research | Vex Hale | D830 17:05 | `work-assets/research/evaluate-model-routing-costs.md` |
