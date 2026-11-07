@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| load-test checkout | QA | Torq Hale | D852 09:45 | `work-assets/qa/load-test-checkout.md` |
+| split monolith module | Engineering | Vex Cross | D852 10:55 | `work-assets/engineering/split-monolith-module.md` |
