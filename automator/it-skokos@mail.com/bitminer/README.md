@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Vex Cross | D853 23:45 | `work-assets/engineering/cache-hot-query-path.md` |
+| brief the case-study post | Marketing | Rune Hale | D854 01:00 | `work-assets/marketing/brief-the-case-study-post.md` |
