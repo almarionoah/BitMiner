@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| load-test checkout | QA | Cipher Reyes | D832 03:55 | `work-assets/qa/load-test-checkout.md` |
+| schedule changelog blast | Marketing | Cipher Bishop | D832 05:05 | `work-assets/marketing/schedule-changelog-blast.md` |
