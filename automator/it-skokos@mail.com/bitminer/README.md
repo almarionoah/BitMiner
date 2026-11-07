@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Kilo Reyes | D819 17:00 | `work-assets/marketing/schedule-changelog-blast.md` |
+| benchmark vector store options | Research | Volt Nkosi | D819 18:10 | `work-assets/research/benchmark-vector-store-options.md` |
