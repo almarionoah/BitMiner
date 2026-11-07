@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Cipher Van Dyk | D830 03:25 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| schedule changelog blast | Marketing | Jax Fontaine | D830 04:45 | `work-assets/marketing/schedule-changelog-blast.md` |
