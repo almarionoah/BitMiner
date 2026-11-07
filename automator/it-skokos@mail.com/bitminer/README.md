@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Jax Fontaine | D849 07:15 | `work-assets/marketing/brief-the-case-study-post.md` |
+| simplify dashboard density | Design | Cipher Bishop | D849 08:25 | `work-assets/design/simplify-dashboard-density.md` |
