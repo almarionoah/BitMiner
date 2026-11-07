@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Onyx Hale | D835 11:15 | `work-assets/research/survey-competitor-release-notes.md` |
+| refactor auth service | Engineering | Mint Reyes | D835 12:25 | `work-assets/engineering/refactor-auth-service.md` |
