@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Nova Ito | D862 10:40 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D862 11:55 | `work-assets/engineering/cache-hot-query-path.md` |
