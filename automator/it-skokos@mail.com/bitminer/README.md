@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Sable Hale | D819 23:20 | `work-assets/marketing/schedule-changelog-blast.md` |
+| refactor auth service | Engineering | Mint Marlow | D820 00:40 | `work-assets/engineering/refactor-auth-service.md` |
