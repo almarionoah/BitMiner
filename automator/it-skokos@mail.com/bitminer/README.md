@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Byte Ito | D849 21:50 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| benchmark vector store options | Research | Onyx Hale | D849 23:05 | `work-assets/research/benchmark-vector-store-options.md` |
