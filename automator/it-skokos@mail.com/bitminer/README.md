@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| load-test checkout | QA | Cipher Reyes | D844 12:45 | `work-assets/qa/load-test-checkout.md` |
+| survey competitor release notes | Research | Vex Hale | D844 14:05 | `work-assets/research/survey-competitor-release-notes.md` |
