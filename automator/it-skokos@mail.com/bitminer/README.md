@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| triage flaky specs | QA | Onyx Nkosi | D850 17:50 | `work-assets/qa/triage-flaky-specs.md` |
+| cache hot query path | Engineering | Vex Cross | D850 19:00 | `work-assets/engineering/cache-hot-query-path.md` |
