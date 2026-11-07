@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Vex Cross | D849 19:25 | `work-assets/engineering/cache-hot-query-path.md` |
+| migrate to typed API client | Engineering | Byte Ito | D849 21:50 | `work-assets/engineering/migrate-to-typed-api-client.md` |
