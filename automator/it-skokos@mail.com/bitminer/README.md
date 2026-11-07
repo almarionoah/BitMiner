@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Nova Ito | D854 17:10 | `work-assets/research/survey-competitor-release-notes.md` |
+| draft launch announcement | Marketing | Kilo Van Dyk | D854 18:20 | `work-assets/marketing/draft-launch-announcement.md` |
