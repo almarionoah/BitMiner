@@ -1,25 +1,24 @@
 # draft launch announcement
-**Author:** Flashy Swift  
+**Author:** Ash Fontaine  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D819 19:00  
-**Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Data Contract), Business Document (Company Document)  
+**Produced:** D820 09:45  
+**Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for draft launch announcement, produced by Flashy Swift on persona credits.
+Marketing deliverable for draft launch announcement, produced by Ash Fontaine on persona credits.
 
 ## Deliverable
 ```
 # draft launch announcement
-Author: Flashy Swift (Marketing, gemini-1.5-flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Ash Fontaine (Marketing, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: data purist.
+Working style applied: pragmatic shipper.
 ## Brief
-draft launch announcement. Delivered on persona credits from Flashy Swift's own allowance.
+draft launch announcement. Delivered on persona credits from Ash Fontaine's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
-- Business Document: Data Contract — applied directly to this task.
 - Business Document: Company Document — applied directly to this task.
 ## Work completed
 1. Reviewed the task scope and the Marketing standards in force on BitMiner.
@@ -27,5 +26,5 @@ draft launch announcement. Delivered on persona credits from Flashy Swift's own 
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Flashy Swift. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Ash Fontaine. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
