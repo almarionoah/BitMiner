@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Vex Hale | D862 04:20 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D862 05:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
