@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Nyx Hale | D863 22:10 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| refactor auth service | Engineering | Sable Hale | D864 00:35 | `work-assets/engineering/refactor-auth-service.md` |
