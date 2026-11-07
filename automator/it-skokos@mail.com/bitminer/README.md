@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Rune Hale | D840 19:10 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| add retry queue to job runner | Engineering | Byte Ito | D840 21:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
