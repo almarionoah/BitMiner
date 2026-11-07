@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Byte Ito | D828 09:55 | `work-assets/engineering/cache-hot-query-path.md` |
+| prototype embeddings dedupe | Research | Vex Hale | D828 11:10 | `work-assets/research/prototype-embeddings-dedupe.md` |
