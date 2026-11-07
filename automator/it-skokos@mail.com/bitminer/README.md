@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| expand regression suite | QA | Cipher Reyes | D840 17:55 | `work-assets/qa/expand-regression-suite.md` |
+| spin up comparison landing page | Marketing | Rune Hale | D840 19:10 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
