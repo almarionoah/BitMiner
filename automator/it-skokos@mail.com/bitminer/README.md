@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Vex Hale | D851 07:20 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D851 09:40 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
