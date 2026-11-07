@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Mint Petrov | D820 18:30 | `work-assets/marketing/brief-the-case-study-post.md` |
+| spin up comparison landing page | Marketing | Jax Ito | D820 19:40 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
