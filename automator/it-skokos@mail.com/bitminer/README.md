@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Quill Adeyemi | D822 10:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| split monolith module | Engineering | Torq Adeyemi | D822 12:00 | `work-assets/engineering/split-monolith-module.md` |
