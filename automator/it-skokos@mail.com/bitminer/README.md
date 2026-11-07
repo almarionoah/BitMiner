@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| fuzz the import endpoint | QA | Torq Hale | D857 00:35 | `work-assets/qa/fuzz-the-import-endpoint.md` |
+| add retry queue to job runner | Engineering | Cipher Van Dyk | D857 02:15 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
