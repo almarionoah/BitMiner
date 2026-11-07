@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Lyra Van Dyk | D836 19:10 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| schedule changelog blast | Marketing | Rune Hale | D836 21:40 | `work-assets/marketing/schedule-changelog-blast.md` |
