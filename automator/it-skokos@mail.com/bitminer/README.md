@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Reyes | D843 15:50 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| refactor auth service | Engineering | Cipher Van Dyk | D843 17:05 | `work-assets/engineering/refactor-auth-service.md` |
