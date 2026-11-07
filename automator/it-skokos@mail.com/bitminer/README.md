@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| load-test checkout | QA | Torq Hale | D861 07:25 | `work-assets/qa/load-test-checkout.md` |
+| draft launch announcement | Marketing | Lyra Nkosi | D861 08:35 | `work-assets/marketing/draft-launch-announcement.md` |
