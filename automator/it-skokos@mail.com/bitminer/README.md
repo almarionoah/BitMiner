@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Byte Ito | D828 19:40 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| brief the case-study post | Marketing | Kilo Reyes | D828 20:55 | `work-assets/marketing/brief-the-case-study-post.md` |
