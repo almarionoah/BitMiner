@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Byte Ito | D855 05:45 | `work-assets/engineering/refactor-auth-service.md` |
+| brief the case-study post | Marketing | Lyra Nkosi | D855 06:55 | `work-assets/marketing/brief-the-case-study-post.md` |
