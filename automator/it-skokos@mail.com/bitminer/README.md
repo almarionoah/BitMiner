@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Rune Hale | D837 01:20 | `work-assets/marketing/schedule-changelog-blast.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D837 02:40 | `work-assets/engineering/split-monolith-module.md` |
