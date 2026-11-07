@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Lyra Van Dyk | D851 02:20 | `work-assets/engineering/cache-hot-query-path.md` |
+| add retry queue to job runner | Engineering | Vex Cross | D851 03:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
