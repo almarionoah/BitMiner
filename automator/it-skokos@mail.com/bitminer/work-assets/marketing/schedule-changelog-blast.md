@@ -1,21 +1,21 @@
 # schedule changelog blast
-**Author:** Jax Fontaine  
+**Author:** Rune Hale  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D826 17:25  
+**Produced:** D828 12:25  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for schedule changelog blast, produced by Jax Fontaine on persona credits.
+Marketing deliverable for schedule changelog blast, produced by Rune Hale on persona credits.
 
 ## Deliverable
 ```
 # schedule changelog blast
-Author: Jax Fontaine (Marketing, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Rune Hale (Marketing, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: pragmatic shipper.
+Working style applied: security paranoid.
 ## Brief
-schedule changelog blast. Delivered on persona credits from Jax Fontaine's own allowance.
+schedule changelog blast. Delivered on persona credits from Rune Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ schedule changelog blast. Delivered on persona credits from Jax Fontaine's own a
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Jax Fontaine. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Rune Hale. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
