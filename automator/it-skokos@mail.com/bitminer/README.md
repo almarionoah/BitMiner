@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Rune Hale | D861 22:10 | `work-assets/marketing/schedule-changelog-blast.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D862 00:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
