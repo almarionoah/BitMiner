@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| expand regression suite | QA | Cipher Reyes | D839 18:30 | `work-assets/qa/expand-regression-suite.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D839 19:45 | `work-assets/engineering/refactor-auth-service.md` |
