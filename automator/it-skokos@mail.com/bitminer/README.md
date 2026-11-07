@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| expand regression suite | QA | Onyx Nkosi | D826 06:05 | `work-assets/qa/expand-regression-suite.md` |
+| survey competitor release notes | Research | Onyx Hale | D826 07:15 | `work-assets/research/survey-competitor-release-notes.md` |
