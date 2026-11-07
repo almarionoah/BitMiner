@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Nyx Nkosi | D856 16:50 | `work-assets/marketing/draft-launch-announcement.md` |
+| cache hot query path | Engineering | Byte Ito | D856 18:25 | `work-assets/engineering/cache-hot-query-path.md` |
