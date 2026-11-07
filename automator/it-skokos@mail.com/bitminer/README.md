@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Van Dyk | D826 04:55 | `work-assets/engineering/refactor-auth-service.md` |
+| expand regression suite | QA | Onyx Nkosi | D826 06:05 | `work-assets/qa/expand-regression-suite.md` |
