@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Jax Fontaine | D860 23:45 | `work-assets/marketing/schedule-changelog-blast.md` |
+| migrate to typed API client | Engineering | Byte Ito | D861 01:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
