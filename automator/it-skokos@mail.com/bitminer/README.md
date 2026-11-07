@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Van Dyk | D847 02:30 | `work-assets/engineering/refactor-auth-service.md` |
+| autoscale worker pool | DevOps | Kilo Hale | D847 05:00 | `work-assets/devops/autoscale-worker-pool.md` |
