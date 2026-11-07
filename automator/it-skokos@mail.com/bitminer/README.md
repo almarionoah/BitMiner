@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Lyra Ito | D865 02:50 | `work-assets/engineering/refactor-auth-service.md` |
+| schedule changelog blast | Marketing | Kilo Reyes | D865 04:00 | `work-assets/marketing/schedule-changelog-blast.md` |
