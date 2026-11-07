@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Lyra Marlow | D852 02:10 | `work-assets/devops/wire-log-tracing.md` |
+| triage flaky specs | QA | Cipher Reyes | D852 03:20 | `work-assets/qa/triage-flaky-specs.md` |
