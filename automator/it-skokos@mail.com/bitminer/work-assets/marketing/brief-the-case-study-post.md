@@ -1,21 +1,21 @@
 # brief the case-study post
-**Author:** Mint Petrov  
+**Author:** Sable Hale  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D820 18:30  
+**Produced:** D820 20:50  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for brief the case-study post, produced by Mint Petrov on persona credits.
+Marketing deliverable for brief the case-study post, produced by Sable Hale on persona credits.
 
 ## Deliverable
 ```
 # brief the case-study post
-Author: Mint Petrov (Marketing, GPT-4o mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Sable Hale (Marketing, Gemini 3.7 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
 Working style applied: pragmatic shipper.
 ## Brief
-brief the case-study post. Delivered on persona credits from Mint Petrov's own allowance.
+brief the case-study post. Delivered on persona credits from Sable Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ brief the case-study post. Delivered on persona credits from Mint Petrov's own a
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Mint Petrov. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Sable Hale. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
