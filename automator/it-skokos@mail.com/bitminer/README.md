@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D821 11:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| harden CI pipeline | DevOps | Juno Fontaine | D821 12:50 | `work-assets/devops/harden-ci-pipeline.md` |
