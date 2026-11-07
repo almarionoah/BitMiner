@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Vex Hale | D851 04:55 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| prototype embeddings dedupe | Research | Vex Hale | D851 07:20 | `work-assets/research/prototype-embeddings-dedupe.md` |
