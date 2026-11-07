@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Kilo Hale | D848 15:55 | `work-assets/devops/autoscale-worker-pool.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D848 17:05 | `work-assets/engineering/refactor-auth-service.md` |
