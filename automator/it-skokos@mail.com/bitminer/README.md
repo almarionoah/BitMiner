@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Kilo Hale | D835 13:35 | `work-assets/devops/add-blue-green-deploy.md` |
+| survey competitor release notes | Research | Vex Hale | D835 14:45 | `work-assets/research/survey-competitor-release-notes.md` |
