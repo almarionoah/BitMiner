@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Cipher Bishop | D859 19:35 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| prototype embeddings dedupe | Research | Nyx Hale | D859 22:00 | `work-assets/research/prototype-embeddings-dedupe.md` |
