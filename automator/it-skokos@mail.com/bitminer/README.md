@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Pixel Bishop | D845 14:55 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| schedule changelog blast | Marketing | Jax Fontaine | D845 16:15 | `work-assets/marketing/schedule-changelog-blast.md` |
