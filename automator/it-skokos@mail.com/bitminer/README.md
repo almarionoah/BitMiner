@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Vex Cross | D825 00:30 | `work-assets/engineering/refactor-auth-service.md` |
+| cut a 30s product demo | Marketing | Kilo Reyes | D825 01:45 | `work-assets/marketing/cut-a-30s-product-demo.md` |
