@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Kilo Hale | D841 08:35 | `work-assets/devops/wire-log-tracing.md` |
+| study churn signals | Research | Nyx Hale | D841 09:50 | `work-assets/research/study-churn-signals.md` |
