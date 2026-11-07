@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Rune Hale | D842 15:25 | `work-assets/marketing/schedule-changelog-blast.md` |
+| benchmark vector store options | Research | Nyx Hale | D842 16:40 | `work-assets/research/benchmark-vector-store-options.md` |
