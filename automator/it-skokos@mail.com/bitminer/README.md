@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Rune Hale | D837 05:05 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| refactor auth service | Engineering | Vex Cross | D837 06:20 | `work-assets/engineering/refactor-auth-service.md` |
