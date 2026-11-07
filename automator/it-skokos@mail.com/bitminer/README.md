@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Nyx Hale | D827 21:30 | `work-assets/research/study-churn-signals.md` |
+| refactor auth service | Engineering | Byte Ito | D827 22:45 | `work-assets/engineering/refactor-auth-service.md` |
