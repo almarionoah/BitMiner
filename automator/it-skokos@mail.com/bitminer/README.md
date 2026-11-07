@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Rune Hale | D832 16:40 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| cache hot query path | Engineering | Sable Hale | D832 19:00 | `work-assets/engineering/cache-hot-query-path.md` |
