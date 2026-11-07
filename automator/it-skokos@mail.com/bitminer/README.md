@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Vex Cross | D851 03:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| prototype embeddings dedupe | Research | Vex Hale | D851 04:55 | `work-assets/research/prototype-embeddings-dedupe.md` |
