@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Vex Cross | D842 05:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| migrate to typed API client | Engineering | Mint Van Dyk | D842 07:55 | `work-assets/engineering/migrate-to-typed-api-client.md` |
