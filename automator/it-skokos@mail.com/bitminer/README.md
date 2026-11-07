@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Jax Fontaine | D850 14:05 | `work-assets/marketing/schedule-changelog-blast.md` |
+| cut a 30s product demo | Marketing | Mint Reyes | D850 15:15 | `work-assets/marketing/cut-a-30s-product-demo.md` |
