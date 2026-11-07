@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Nova Cross | D821 21:45 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| brief the case-study post | Marketing | Byte Hale | D821 23:05 | `work-assets/marketing/brief-the-case-study-post.md` |
