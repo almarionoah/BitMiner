@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Nyx Okafor | D865 09:15 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| split monolith module | Engineering | Vex Cross | D865 12:55 | `work-assets/engineering/split-monolith-module.md` |
