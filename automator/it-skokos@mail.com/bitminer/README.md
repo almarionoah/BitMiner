@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Sable Hale | D821 19:15 | `work-assets/marketing/draft-launch-announcement.md` |
+| add blue/green deploy | DevOps | Torq Hale | D821 20:30 | `work-assets/devops/add-blue-green-deploy.md` |
