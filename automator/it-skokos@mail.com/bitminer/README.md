@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Rune Hale | D843 23:10 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| harden CI pipeline | DevOps | Lyra Marlow | D844 00:25 | `work-assets/devops/harden-ci-pipeline.md` |
