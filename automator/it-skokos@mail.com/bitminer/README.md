@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Vex Van Dyk | D822 07:50 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| migrate to typed API client | Engineering | Quill Adeyemi | D822 10:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
