@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Byte Ito | D856 23:20 | `work-assets/engineering/cache-hot-query-path.md` |
+| fuzz the import endpoint | QA | Torq Hale | D857 00:35 | `work-assets/qa/fuzz-the-import-endpoint.md` |
