@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Pixel Bishop | D847 13:05 | `work-assets/engineering/refactor-auth-service.md` |
+| add retry queue to job runner | Engineering | Lyra Van Dyk | D847 14:15 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
