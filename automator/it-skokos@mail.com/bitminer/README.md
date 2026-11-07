@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Vex Cross | D863 08:45 | `work-assets/engineering/split-monolith-module.md` |
+| survey competitor release notes | Research | Nyx Hale | D863 10:30 | `work-assets/research/survey-competitor-release-notes.md` |
