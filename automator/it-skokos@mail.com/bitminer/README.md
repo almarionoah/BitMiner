@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Kilo Hale | D855 21:30 | `work-assets/devops/wire-log-tracing.md` |
+| brief the case-study post | Marketing | Jax Fontaine | D856 00:00 | `work-assets/marketing/brief-the-case-study-post.md` |
