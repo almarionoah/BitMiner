@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Kilo Hale | D856 19:35 | `work-assets/devops/autoscale-worker-pool.md` |
+| evaluate model routing costs | Research | Volt Nkosi | D856 20:55 | `work-assets/research/evaluate-model-routing-costs.md` |
