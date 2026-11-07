@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Iris Van Dyk | D820 10:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| simplify dashboard density | Design | Volt Van Dyk | D820 12:30 | `work-assets/design/simplify-dashboard-density.md` |
