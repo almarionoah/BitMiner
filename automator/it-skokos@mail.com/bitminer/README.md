@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Reyes | D860 17:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D860 18:45 | `work-assets/engineering/cache-hot-query-path.md` |
