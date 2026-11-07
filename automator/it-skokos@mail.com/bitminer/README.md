@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Byte Ito | D839 17:10 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| expand regression suite | QA | Cipher Reyes | D839 18:30 | `work-assets/qa/expand-regression-suite.md` |
