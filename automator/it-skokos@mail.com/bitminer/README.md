@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Lyra Marlow | D820 04:35 | `work-assets/marketing/brief-the-case-study-post.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D820 05:45 | `work-assets/engineering/split-monolith-module.md` |
