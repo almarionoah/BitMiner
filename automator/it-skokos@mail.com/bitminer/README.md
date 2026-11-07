@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Nyx Okafor | D838 21:00 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| draft launch announcement | Marketing | Cipher Bishop | D838 23:25 | `work-assets/marketing/draft-launch-announcement.md` |
