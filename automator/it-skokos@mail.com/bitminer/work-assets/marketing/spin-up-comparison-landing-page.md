@@ -1,21 +1,21 @@
 # spin up comparison landing page
-**Author:** Rune Hale  
+**Author:** Mint Reyes  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D828 01:25  
+**Produced:** D828 05:00  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for spin up comparison landing page, produced by Rune Hale on persona credits.
+Marketing deliverable for spin up comparison landing page, produced by Mint Reyes on persona credits.
 
 ## Deliverable
 ```
 # spin up comparison landing page
-Author: Rune Hale (Marketing, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Mint Reyes (Marketing, o3 mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: security paranoid.
+Working style applied: UX romantic.
 ## Brief
-spin up comparison landing page. Delivered on persona credits from Rune Hale's own allowance.
+spin up comparison landing page. Delivered on persona credits from Mint Reyes's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ spin up comparison landing page. Delivered on persona credits from Rune Hale's o
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Rune Hale. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Mint Reyes. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
