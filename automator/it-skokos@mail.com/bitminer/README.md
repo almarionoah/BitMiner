@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| fuzz the import endpoint | QA | Torq Hale | D854 19:40 | `work-assets/qa/fuzz-the-import-endpoint.md` |
+| migrate to typed API client | Engineering | Vex Cross | D854 20:55 | `work-assets/engineering/migrate-to-typed-api-client.md` |
