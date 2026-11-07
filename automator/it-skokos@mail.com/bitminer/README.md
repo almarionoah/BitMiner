@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| expand regression suite | QA | Onyx Nkosi | D827 04:15 | `work-assets/qa/expand-regression-suite.md` |
+| cut a 30s product demo | Marketing | Jax Fontaine | D827 05:25 | `work-assets/marketing/cut-a-30s-product-demo.md` |
