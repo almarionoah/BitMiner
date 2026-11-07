@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Zed Reyes | D821 18:00 | `work-assets/engineering/refactor-auth-service.md` |
+| draft launch announcement | Marketing | Sable Hale | D821 19:15 | `work-assets/marketing/draft-launch-announcement.md` |
