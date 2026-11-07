@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| harden CI pipeline | DevOps | Lyra Marlow | D844 00:25 | `work-assets/devops/harden-ci-pipeline.md` |
+| survey competitor release notes | Research | Vex Hale | D844 03:00 | `work-assets/research/survey-competitor-release-notes.md` |
