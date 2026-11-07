@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Torq Hale | D821 20:30 | `work-assets/devops/add-blue-green-deploy.md` |
+| migrate to typed API client | Engineering | Nova Cross | D821 21:45 | `work-assets/engineering/migrate-to-typed-api-client.md` |
