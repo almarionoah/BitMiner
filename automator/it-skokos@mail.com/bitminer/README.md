@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| benchmark vector store options | Research | Vex Hale | D851 22:05 | `work-assets/research/benchmark-vector-store-options.md` |
+| migrate to typed API client | Engineering | Vex Cross | D852 00:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
