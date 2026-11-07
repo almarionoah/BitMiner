@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Kaelen Thorne | D819 23:05 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| spin up comparison landing page | Marketing | Mini Minerva | D820 00:20 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
