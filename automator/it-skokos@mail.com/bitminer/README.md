@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Vex Hale | D841 14:30 | `work-assets/research/survey-competitor-release-notes.md` |
+| cache hot query path | Engineering | Byte Ito | D841 15:45 | `work-assets/engineering/cache-hot-query-path.md` |
