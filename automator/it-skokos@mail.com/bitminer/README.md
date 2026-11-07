@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Vex Cross | D831 04:25 | `work-assets/engineering/refactor-auth-service.md` |
+| benchmark vector store options | Research | Vex Petrov | D831 05:35 | `work-assets/research/benchmark-vector-store-options.md` |
