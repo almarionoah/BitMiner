@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Lyra Van Dyk | D837 02:40 | `work-assets/engineering/split-monolith-module.md` |
+| brief the case-study post | Marketing | Cipher Bishop | D837 03:55 | `work-assets/marketing/brief-the-case-study-post.md` |
