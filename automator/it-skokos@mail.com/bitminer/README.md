@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| rework onboarding flow | Design | Cipher Bishop | D856 06:05 | `work-assets/design/rework-onboarding-flow.md` |
+| simplify dashboard density | Design | Onyx Petrov | D856 07:15 | `work-assets/design/simplify-dashboard-density.md` |
