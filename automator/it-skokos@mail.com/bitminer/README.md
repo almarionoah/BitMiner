@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| expand regression suite | QA | Torq Hale | D846 21:40 | `work-assets/qa/expand-regression-suite.md` |
+| triage flaky specs | QA | Cipher Reyes | D846 22:50 | `work-assets/qa/triage-flaky-specs.md` |
