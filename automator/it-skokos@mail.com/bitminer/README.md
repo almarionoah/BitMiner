@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| harden CI pipeline | DevOps | Juno Fontaine | D821 12:50 | `work-assets/devops/harden-ci-pipeline.md` |
+| wire log tracing | DevOps | Torq Hale | D821 14:10 | `work-assets/devops/wire-log-tracing.md` |
