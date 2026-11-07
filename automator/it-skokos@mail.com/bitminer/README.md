@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Jax Cross | D820 22:15 | `work-assets/engineering/split-monolith-module.md` |
+| cache hot query path | Engineering | Onyx Fontaine | D821 00:05 | `work-assets/engineering/cache-hot-query-path.md` |
