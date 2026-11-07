@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Onyx Hale | D826 07:15 | `work-assets/research/survey-competitor-release-notes.md` |
+| evaluate model routing costs | Research | Vex Hale | D826 08:25 | `work-assets/research/evaluate-model-routing-costs.md` |
