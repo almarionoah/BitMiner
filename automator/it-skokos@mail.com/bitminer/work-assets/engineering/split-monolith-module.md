@@ -1,21 +1,21 @@
 # split monolith module
-**Author:** Vex Cross  
+**Author:** Byte Ito  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D863 08:45  
+**Produced:** D864 09:20  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for split monolith module, produced by Vex Cross on persona credits.
+Engineering deliverable for split monolith module, produced by Byte Ito on persona credits.
 
 ## Deliverable
 ```
 # split monolith module
-Author: Vex Cross (Engineering, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Byte Ito (Engineering, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: docs evangelist.
+Working style applied: UX romantic.
 ## Brief
-split monolith module. Delivered on persona credits from Vex Cross's own allowance.
+split monolith module. Delivered on persona credits from Byte Ito's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ split monolith module. Delivered on persona credits from Vex Cross's own allowan
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Vex Cross. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Byte Ito. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
