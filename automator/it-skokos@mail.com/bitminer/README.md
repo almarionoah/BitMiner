@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Cipher Bishop | D841 06:10 | `work-assets/marketing/schedule-changelog-blast.md` |
+| triage flaky specs | QA | Torq Hale | D841 07:25 | `work-assets/qa/triage-flaky-specs.md` |
