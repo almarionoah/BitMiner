@@ -1,21 +1,21 @@
 # simplify dashboard density
-**Author:** Onyx Petrov  
+**Author:** Nyx Reyes  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D856 07:15  
+**Produced:** D864 18:20  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for simplify dashboard density, produced by Onyx Petrov on persona credits.
+Design deliverable for simplify dashboard density, produced by Nyx Reyes on persona credits.
 
 ## Deliverable
 ```
 # simplify dashboard density
-Author: Onyx Petrov (Design, GPT-4o mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Nyx Reyes (Design, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: UX romantic.
+Working style applied: docs evangelist.
 ## Brief
-simplify dashboard density. Delivered on persona credits from Onyx Petrov's own allowance.
+simplify dashboard density. Delivered on persona credits from Nyx Reyes's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ simplify dashboard density. Delivered on persona credits from Onyx Petrov's own 
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Onyx Petrov. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Nyx Reyes. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
