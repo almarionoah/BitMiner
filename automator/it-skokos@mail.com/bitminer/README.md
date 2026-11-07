@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Vex Hale | D864 19:35 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| refactor auth service | Engineering | Mint Van Dyk | D864 20:50 | `work-assets/engineering/refactor-auth-service.md` |
