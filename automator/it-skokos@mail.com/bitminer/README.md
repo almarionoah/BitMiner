@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Jax Fontaine | D827 05:25 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D827 07:55 | `work-assets/engineering/split-monolith-module.md` |
