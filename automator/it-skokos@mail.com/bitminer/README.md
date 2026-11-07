@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Kilo Hale | D829 07:15 | `work-assets/devops/add-blue-green-deploy.md` |
+| wire log tracing | DevOps | Kilo Hale | D829 08:40 | `work-assets/devops/wire-log-tracing.md` |
