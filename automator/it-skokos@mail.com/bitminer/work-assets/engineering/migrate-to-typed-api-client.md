@@ -1,21 +1,21 @@
 # migrate to typed API client
-**Author:** Iris Van Dyk  
+**Author:** Prism Fontaine  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D820 10:35  
+**Produced:** D820 05:25  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for migrate to typed API client, produced by Iris Van Dyk on persona credits.
+Engineering deliverable for migrate to typed API client, produced by Prism Fontaine on persona credits.
 
 ## Deliverable
 ```
 # migrate to typed API client
-Author: Iris Van Dyk (Engineering, Gemini 3.1 Deep Think) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Prism Fontaine (Engineering, Gemini 3.1 Deep Think) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: docs evangelist.
+Working style applied: security paranoid.
 ## Brief
-migrate to typed API client. Delivered on persona credits from Iris Van Dyk's own allowance.
+migrate to typed API client. Delivered on persona credits from Prism Fontaine's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ migrate to typed API client. Delivered on persona credits from Iris Van Dyk's ow
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Iris Van Dyk. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Prism Fontaine. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
