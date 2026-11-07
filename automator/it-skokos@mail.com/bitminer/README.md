@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Cipher Van Dyk | D857 02:15 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| schedule changelog blast | Marketing | Rune Hale | D857 03:30 | `work-assets/marketing/schedule-changelog-blast.md` |
