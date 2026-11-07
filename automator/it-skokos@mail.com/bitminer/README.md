@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Cipher Bishop | D861 13:30 | `work-assets/marketing/schedule-changelog-blast.md` |
+| autoscale worker pool | DevOps | Kilo Hale | D861 14:50 | `work-assets/devops/autoscale-worker-pool.md` |
