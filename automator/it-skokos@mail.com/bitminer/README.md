@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Kilo Hale | D861 14:50 | `work-assets/devops/autoscale-worker-pool.md` |
+| spin up comparison landing page | Marketing | Rune Hale | D861 16:05 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
