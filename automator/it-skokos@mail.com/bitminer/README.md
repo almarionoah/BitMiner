@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Mint Reyes | D856 14:25 | `work-assets/engineering/cache-hot-query-path.md` |
+| draft launch announcement | Marketing | Nyx Nkosi | D856 16:50 | `work-assets/marketing/draft-launch-announcement.md` |
