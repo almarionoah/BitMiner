@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Onyx Hale | D845 08:40 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| brief the case-study post | Marketing | Rune Hale | D845 10:00 | `work-assets/marketing/brief-the-case-study-post.md` |
