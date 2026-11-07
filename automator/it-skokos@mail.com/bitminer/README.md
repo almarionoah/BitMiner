@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Byte Ito | D843 12:15 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| fuzz the import endpoint | QA | Cipher Reyes | D843 13:25 | `work-assets/qa/fuzz-the-import-endpoint.md` |
