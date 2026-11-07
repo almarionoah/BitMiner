@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Byte Ito | D859 00:35 | `work-assets/engineering/split-monolith-module.md` |
+| survey competitor release notes | Research | Vex Hale | D859 03:05 | `work-assets/research/survey-competitor-release-notes.md` |
