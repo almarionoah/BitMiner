@@ -1,21 +1,21 @@
 # prototype embeddings dedupe
-**Author:** Cipher Reyes  
+**Author:** Nyx Hale  
 **Department:** Research  
 **Project:** BitMiner  
-**Produced:** D837 13:10  
+**Produced:** D825 07:35  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Research deliverable for prototype embeddings dedupe, produced by Cipher Reyes on persona credits.
+Research deliverable for prototype embeddings dedupe, produced by Nyx Hale on persona credits.
 
 ## Deliverable
 ```
 # prototype embeddings dedupe
-Author: Cipher Reyes (Research, o4-mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Nyx Hale (Research, Gemini 3.1 Flash-Lite) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
 Working style applied: pragmatic shipper.
 ## Brief
-prototype embeddings dedupe. Delivered on persona credits from Cipher Reyes's own allowance.
+prototype embeddings dedupe. Delivered on persona credits from Nyx Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ prototype embeddings dedupe. Delivered on persona credits from Cipher Reyes's ow
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Cipher Reyes. Hand to the Research lead for sign-off, then save to the project work-assets folder.
+Reviewed by Nyx Hale. Hand to the Research lead for sign-off, then save to the project work-assets folder.
 ```
