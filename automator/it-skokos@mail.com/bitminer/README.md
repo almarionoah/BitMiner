@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Byte Ito | D856 18:25 | `work-assets/engineering/cache-hot-query-path.md` |
+| autoscale worker pool | DevOps | Kilo Hale | D856 19:35 | `work-assets/devops/autoscale-worker-pool.md` |
