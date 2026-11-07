@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Echo Hale | D822 15:55 | `work-assets/devops/add-blue-green-deploy.md` |
+| brief the case-study post | Marketing | Torq Nkosi | D822 17:05 | `work-assets/marketing/brief-the-case-study-post.md` |
