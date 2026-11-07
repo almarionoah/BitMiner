@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Reyes | D857 23:15 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| fuzz the import endpoint | QA | Rune Reyes | D858 00:30 | `work-assets/qa/fuzz-the-import-endpoint.md` |
