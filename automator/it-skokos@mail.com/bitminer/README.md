@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Rune Hale | D864 04:25 | `work-assets/marketing/schedule-changelog-blast.md` |
+| brief the case-study post | Marketing | Lyra Nkosi | D864 05:40 | `work-assets/marketing/brief-the-case-study-post.md` |
