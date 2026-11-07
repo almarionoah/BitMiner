@@ -1,21 +1,21 @@
 # add retry queue to job runner
-**Author:** Gemini-V2 Blitz  
+**Author:** Mint Reyes  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D824 09:10  
+**Produced:** D825 08:45  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Data Contract), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for add retry queue to job runner, produced by Gemini-V2 Blitz on persona credits.
+Engineering deliverable for add retry queue to job runner, produced by Mint Reyes on persona credits.
 
 ## Deliverable
 ```
 # add retry queue to job runner
-Author: Gemini-V2 Blitz (Engineering, gemini-2.0-flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Mint Reyes (Engineering, Gemini 3.1 Flash-Lite) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: security paranoid.
+Working style applied: edge-case archaeologist.
 ## Brief
-add retry queue to job runner. Delivered on persona credits from Gemini-V2 Blitz's own allowance.
+add retry queue to job runner. Delivered on persona credits from Mint Reyes's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -27,5 +27,5 @@ add retry queue to job runner. Delivered on persona credits from Gemini-V2 Blitz
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Gemini-V2 Blitz. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Mint Reyes. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
