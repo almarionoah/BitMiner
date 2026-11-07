@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Vex Hale | D835 01:15 | `work-assets/research/evaluate-model-routing-costs.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D835 02:35 | `work-assets/engineering/refactor-auth-service.md` |
