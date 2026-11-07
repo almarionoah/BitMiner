@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Cipher Bishop | D849 18:10 | `work-assets/design/accessibility-pass.md` |
+| cache hot query path | Engineering | Vex Cross | D849 19:25 | `work-assets/engineering/cache-hot-query-path.md` |
