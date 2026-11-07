@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D865 14:15 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| study churn signals | Research | Onyx Hale | D865 15:35 | `work-assets/research/study-churn-signals.md` |
