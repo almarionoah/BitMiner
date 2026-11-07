@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Vex Hale | D859 03:05 | `work-assets/research/survey-competitor-release-notes.md` |
+| rework onboarding flow | Design | Nyx Reyes | D859 05:35 | `work-assets/design/rework-onboarding-flow.md` |
