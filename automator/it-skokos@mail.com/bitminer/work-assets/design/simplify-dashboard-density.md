@@ -1,21 +1,21 @@
 # simplify dashboard density
-**Author:** Jax Bishop  
+**Author:** Volt Van Dyk  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D820 09:25  
+**Produced:** D820 12:30  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for simplify dashboard density, produced by Jax Bishop on persona credits.
+Design deliverable for simplify dashboard density, produced by Volt Van Dyk on persona credits.
 
 ## Deliverable
 ```
 # simplify dashboard density
-Author: Jax Bishop (Design, Gemini 3.5 Flash-Lite) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Volt Van Dyk (Design, Gemini 3.1 Deep Think) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: security paranoid.
+Working style applied: UX romantic.
 ## Brief
-simplify dashboard density. Delivered on persona credits from Jax Bishop's own allowance.
+simplify dashboard density. Delivered on persona credits from Volt Van Dyk's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ simplify dashboard density. Delivered on persona credits from Jax Bishop's own a
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Jax Bishop. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Volt Van Dyk. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
