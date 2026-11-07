@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Onyx Hale | D832 15:25 | `work-assets/research/evaluate-model-routing-costs.md` |
+| spin up comparison landing page | Marketing | Rune Hale | D832 16:40 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
