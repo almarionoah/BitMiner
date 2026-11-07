@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Torq Adeyemi | D822 12:00 | `work-assets/engineering/split-monolith-module.md` |
+| cut a 30s product demo | Marketing | Iris Hale | D822 13:10 | `work-assets/marketing/cut-a-30s-product-demo.md` |
