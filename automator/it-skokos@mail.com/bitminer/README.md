@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Vex Cross | D864 10:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D864 11:55 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
