@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| benchmark vector store options | Research | Vex Hale | D830 01:00 | `work-assets/research/benchmark-vector-store-options.md` |
+| cache hot query path | Engineering | Mint Van Dyk | D830 02:10 | `work-assets/engineering/cache-hot-query-path.md` |
