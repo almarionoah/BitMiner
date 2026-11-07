@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Byte Ito | D846 02:15 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| study churn signals | Research | Onyx Hale | D846 03:35 | `work-assets/research/study-churn-signals.md` |
