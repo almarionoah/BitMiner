@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Vex Petrov | D833 13:35 | `work-assets/research/survey-competitor-release-notes.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D833 14:45 | `work-assets/engineering/migrate-to-typed-api-client.md` |
