@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Sable Hale | D851 01:10 | `work-assets/engineering/split-monolith-module.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D851 02:20 | `work-assets/engineering/cache-hot-query-path.md` |
