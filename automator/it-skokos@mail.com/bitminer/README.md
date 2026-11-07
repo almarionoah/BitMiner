@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Nyx Reyes | D864 18:20 | `work-assets/design/simplify-dashboard-density.md` |
+| prototype embeddings dedupe | Research | Vex Hale | D864 19:35 | `work-assets/research/prototype-embeddings-dedupe.md` |
