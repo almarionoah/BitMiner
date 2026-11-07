@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Mint Reyes | D836 00:35 | `work-assets/engineering/split-monolith-module.md` |
+| add retry queue to job runner | Engineering | Pixel Bishop | D836 01:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
