@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Mint Reyes | D828 05:00 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| brief the case-study post | Marketing | Rune Hale | D828 06:10 | `work-assets/marketing/brief-the-case-study-post.md` |
