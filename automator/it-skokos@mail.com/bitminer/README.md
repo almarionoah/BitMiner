@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| benchmark vector store options | Research | Vex Hale | D859 11:45 | `work-assets/research/benchmark-vector-store-options.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D859 14:35 | `work-assets/engineering/refactor-auth-service.md` |
