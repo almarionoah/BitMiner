@@ -1,21 +1,21 @@
 # cut a 30s product demo
-**Author:** Nyx Nkosi  
+**Author:** Prism Reyes  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D837 15:00  
+**Produced:** D838 10:45  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for cut a 30s product demo, produced by Nyx Nkosi on persona credits.
+Marketing deliverable for cut a 30s product demo, produced by Prism Reyes on persona credits.
 
 ## Deliverable
 ```
 # cut a 30s product demo
-Author: Nyx Nkosi (Marketing, GPT-5) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Prism Reyes (Marketing, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: UX romantic.
+Working style applied: cost cutter.
 ## Brief
-cut a 30s product demo. Delivered on persona credits from Nyx Nkosi's own allowance.
+cut a 30s product demo. Delivered on persona credits from Prism Reyes's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ cut a 30s product demo. Delivered on persona credits from Nyx Nkosi's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Nyx Nkosi. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Prism Reyes. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
