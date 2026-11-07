@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Mint Reyes | D849 17:00 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| accessibility pass | Design | Cipher Bishop | D849 18:10 | `work-assets/design/accessibility-pass.md` |
