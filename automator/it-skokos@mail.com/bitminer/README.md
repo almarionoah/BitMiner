@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Cipher Van Dyk | D841 13:20 | `work-assets/engineering/refactor-auth-service.md` |
+| survey competitor release notes | Research | Vex Hale | D841 14:30 | `work-assets/research/survey-competitor-release-notes.md` |
