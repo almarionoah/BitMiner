@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Vex Cross | D852 00:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| wire log tracing | DevOps | Lyra Marlow | D852 02:10 | `work-assets/devops/wire-log-tracing.md` |
