@@ -1,21 +1,21 @@
 # expand regression suite
-**Author:** Kilo Fontaine  
+**Author:** Torq Hale  
 **Department:** QA  
 **Project:** BitMiner  
-**Produced:** D844 05:30  
+**Produced:** D846 21:40  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-QA deliverable for expand regression suite, produced by Kilo Fontaine on persona credits.
+QA deliverable for expand regression suite, produced by Torq Hale on persona credits.
 
 ## Deliverable
 ```
 # expand regression suite
-Author: Kilo Fontaine (QA, Gemini 3.7 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Torq Hale (QA, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: security paranoid.
+Working style applied: edge-case archaeologist.
 ## Brief
-expand regression suite. Delivered on persona credits from Kilo Fontaine's own allowance.
+expand regression suite. Delivered on persona credits from Torq Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ expand regression suite. Delivered on persona credits from Kilo Fontaine's own a
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Kilo Fontaine. Hand to the QA lead for sign-off, then save to the project work-assets folder.
+Reviewed by Torq Hale. Hand to the QA lead for sign-off, then save to the project work-assets folder.
 ```
