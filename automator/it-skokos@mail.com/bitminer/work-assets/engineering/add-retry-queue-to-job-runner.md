@@ -1,21 +1,21 @@
 # add retry queue to job runner
-**Author:** Byte Ito  
+**Author:** Lyra Ito  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D852 17:25  
+**Produced:** D853 14:35  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for add retry queue to job runner, produced by Byte Ito on persona credits.
+Engineering deliverable for add retry queue to job runner, produced by Lyra Ito on persona credits.
 
 ## Deliverable
 ```
 # add retry queue to job runner
-Author: Byte Ito (Engineering, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Lyra Ito (Engineering, GPT-5.5) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: UX romantic.
+Working style applied: cost cutter.
 ## Brief
-add retry queue to job runner. Delivered on persona credits from Byte Ito's own allowance.
+add retry queue to job runner. Delivered on persona credits from Lyra Ito's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ add retry queue to job runner. Delivered on persona credits from Byte Ito's own 
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Byte Ito. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Lyra Ito. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
