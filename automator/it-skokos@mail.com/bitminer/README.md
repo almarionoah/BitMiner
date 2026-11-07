@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Rune Hale | D853 12:05 | `work-assets/marketing/draft-launch-announcement.md` |
+| add retry queue to job runner | Engineering | Lyra Ito | D853 14:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
