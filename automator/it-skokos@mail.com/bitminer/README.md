@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Cipher Bishop | D846 06:00 | `work-assets/marketing/draft-launch-announcement.md` |
+| cache hot query path | Engineering | Sable Hale | D846 07:15 | `work-assets/engineering/cache-hot-query-path.md` |
