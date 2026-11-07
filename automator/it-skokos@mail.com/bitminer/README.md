@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Rune Hale | D833 12:15 | `work-assets/marketing/schedule-changelog-blast.md` |
+| survey competitor release notes | Research | Vex Petrov | D833 13:35 | `work-assets/research/survey-competitor-release-notes.md` |
