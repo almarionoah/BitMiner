@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Onyx Hale | D835 06:10 | `work-assets/research/survey-competitor-release-notes.md` |
+| cut a 30s product demo | Marketing | Rune Hale | D835 07:25 | `work-assets/marketing/cut-a-30s-product-demo.md` |
