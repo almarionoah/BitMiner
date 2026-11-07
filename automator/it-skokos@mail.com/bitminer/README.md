@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| harden CI pipeline | DevOps | Kilo Hale | D857 07:25 | `work-assets/devops/harden-ci-pipeline.md` |
+| refactor auth service | Engineering | Vex Cross | D857 08:35 | `work-assets/engineering/refactor-auth-service.md` |
