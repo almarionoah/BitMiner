@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Onyx Reyes | D820 06:40 | `work-assets/marketing/brief-the-case-study-post.md` |
+| rework onboarding flow | Design | Onyx Petrov | D820 08:00 | `work-assets/design/rework-onboarding-flow.md` |
