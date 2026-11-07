@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Cipher Bishop | D838 14:30 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| evaluate model routing costs | Research | Onyx Hale | D838 15:45 | `work-assets/research/evaluate-model-routing-costs.md` |
