@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add contract tests | QA | Cipher Reyes | D865 01:35 | `work-assets/qa/add-contract-tests.md` |
+| refactor auth service | Engineering | Lyra Ito | D865 02:50 | `work-assets/engineering/refactor-auth-service.md` |
