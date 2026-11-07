@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Van Dyk | D846 18:55 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| split monolith module | Engineering | Cipher Van Dyk | D846 20:15 | `work-assets/engineering/split-monolith-module.md` |
