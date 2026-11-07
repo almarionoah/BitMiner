@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Cipher Bishop | D855 12:55 | `work-assets/marketing/schedule-changelog-blast.md` |
+| wire log tracing | DevOps | Lyra Marlow | D855 14:10 | `work-assets/devops/wire-log-tracing.md` |
