@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut container image size | DevOps | Kilo Hale | D831 22:55 | `work-assets/devops/cut-container-image-size.md` |
+| evaluate model routing costs | Research | Vex Hale | D832 00:05 | `work-assets/research/evaluate-model-routing-costs.md` |
