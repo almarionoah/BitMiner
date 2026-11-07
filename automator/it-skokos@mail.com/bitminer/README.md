@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| triage flaky specs | QA | Rune Reyes | D824 18:30 | `work-assets/qa/triage-flaky-specs.md` |
+| wire log tracing | DevOps | Lyra Marlow | D824 19:50 | `work-assets/devops/wire-log-tracing.md` |
