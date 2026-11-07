@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Nyx Hale | D841 09:50 | `work-assets/research/study-churn-signals.md` |
+| cut a 30s product demo | Marketing | Cipher Bishop | D841 11:00 | `work-assets/marketing/cut-a-30s-product-demo.md` |
