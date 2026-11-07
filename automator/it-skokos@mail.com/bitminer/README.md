@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Cipher Van Dyk | D829 05:55 | `work-assets/engineering/refactor-auth-service.md` |
+| add blue/green deploy | DevOps | Kilo Hale | D829 07:15 | `work-assets/devops/add-blue-green-deploy.md` |
