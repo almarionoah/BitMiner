@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Kilo Reyes | D865 04:00 | `work-assets/marketing/schedule-changelog-blast.md` |
+| refactor auth service | Engineering | Mint Van Dyk | D865 05:15 | `work-assets/engineering/refactor-auth-service.md` |
