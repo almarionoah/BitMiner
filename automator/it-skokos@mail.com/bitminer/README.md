@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D862 00:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| migrate to typed API client | Engineering | Mint Van Dyk | D862 03:10 | `work-assets/engineering/migrate-to-typed-api-client.md` |
