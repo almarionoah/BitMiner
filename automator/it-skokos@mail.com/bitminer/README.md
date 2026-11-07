@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Byte Ito | D834 03:10 | `work-assets/engineering/cache-hot-query-path.md` |
+| add retry queue to job runner | Engineering | Lyra Ito | D834 05:40 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
