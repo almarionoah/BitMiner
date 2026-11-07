@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Reyes | D851 09:40 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| study churn signals | Research | Nova Ito | D851 11:00 | `work-assets/research/study-churn-signals.md` |
