@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Lyra Van Dyk | D858 04:30 | `work-assets/engineering/cache-hot-query-path.md` |
+| draft launch announcement | Marketing | Rune Hale | D858 05:45 | `work-assets/marketing/draft-launch-announcement.md` |
