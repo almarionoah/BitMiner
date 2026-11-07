@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Vex Cross | D841 12:10 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| refactor auth service | Engineering | Cipher Van Dyk | D841 13:20 | `work-assets/engineering/refactor-auth-service.md` |
