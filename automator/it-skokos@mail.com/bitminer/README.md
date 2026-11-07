@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Iris Reyes | D819 12:00 | `work-assets/design/build-component-tokens.md` |
+| load-test checkout | QA | Onyx Nkosi | D819 13:15 | `work-assets/qa/load-test-checkout.md` |
