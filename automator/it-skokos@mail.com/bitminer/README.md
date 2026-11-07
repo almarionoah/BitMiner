@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Ash Fontaine | D820 02:00 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| refactor auth service | Engineering | Prism Petrov | D820 03:20 | `work-assets/engineering/refactor-auth-service.md` |
