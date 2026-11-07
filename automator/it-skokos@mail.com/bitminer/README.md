@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Nyx Okafor | D845 11:15 | `work-assets/research/evaluate-model-routing-costs.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D845 12:30 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
