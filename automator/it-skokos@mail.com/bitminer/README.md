@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Torq Hale | D821 14:10 | `work-assets/devops/wire-log-tracing.md` |
+| autoscale worker pool | DevOps | Echo Hale | D821 15:20 | `work-assets/devops/autoscale-worker-pool.md` |
