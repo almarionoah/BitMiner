@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Nyx Hale | D838 01:05 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D838 02:20 | `work-assets/engineering/split-monolith-module.md` |
