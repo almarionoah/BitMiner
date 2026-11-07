@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Volt Nkosi | D856 20:55 | `work-assets/research/evaluate-model-routing-costs.md` |
+| add blue/green deploy | DevOps | Kilo Hale | D856 22:10 | `work-assets/devops/add-blue-green-deploy.md` |
