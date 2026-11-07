@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Rune Hale | D863 18:30 | `work-assets/marketing/schedule-changelog-blast.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D863 19:45 | `work-assets/engineering/cache-hot-query-path.md` |
