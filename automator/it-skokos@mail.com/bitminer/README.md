@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Vex Hale | D835 14:45 | `work-assets/research/survey-competitor-release-notes.md` |
+| add retry queue to job runner | Engineering | Cipher Van Dyk | D835 16:00 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
