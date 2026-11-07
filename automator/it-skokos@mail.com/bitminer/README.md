@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Rune Hale | D848 10:45 | `work-assets/marketing/brief-the-case-study-post.md` |
+| cache hot query path | Engineering | Byte Ito | D848 12:00 | `work-assets/engineering/cache-hot-query-path.md` |
