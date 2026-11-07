@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Kilo Hale | D829 08:40 | `work-assets/devops/wire-log-tracing.md` |
+| add retry queue to job runner | Engineering | Byte Ito | D829 10:00 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
