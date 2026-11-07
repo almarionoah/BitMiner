@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Lyra Van Dyk | D838 07:10 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| draft launch announcement | Marketing | Cipher Bishop | D838 08:20 | `work-assets/marketing/draft-launch-announcement.md` |
