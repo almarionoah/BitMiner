@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D839 12:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| cache hot query path | Engineering | Nova Petrov | D839 13:35 | `work-assets/engineering/cache-hot-query-path.md` |
