@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Kilo Reyes | D857 12:15 | `work-assets/marketing/draft-launch-announcement.md` |
+| benchmark vector store options | Research | Vex Hale | D857 13:25 | `work-assets/research/benchmark-vector-store-options.md` |
