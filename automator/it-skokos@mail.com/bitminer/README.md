@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| triage flaky specs | QA | Cipher Reyes | D826 03:55 | `work-assets/qa/triage-flaky-specs.md` |
+| refactor auth service | Engineering | Mint Van Dyk | D826 04:55 | `work-assets/engineering/refactor-auth-service.md` |
