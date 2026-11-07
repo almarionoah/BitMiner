@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Echo Hale | D821 15:20 | `work-assets/devops/autoscale-worker-pool.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D821 16:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
