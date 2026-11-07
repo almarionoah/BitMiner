@@ -1,21 +1,21 @@
 # migrate to typed API client
-**Author:** Nova Cross  
+**Author:** Quill Adeyemi  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D821 21:45  
+**Produced:** D822 10:20  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for migrate to typed API client, produced by Nova Cross on persona credits.
+Engineering deliverable for migrate to typed API client, produced by Quill Adeyemi on persona credits.
 
 ## Deliverable
 ```
 # migrate to typed API client
-Author: Nova Cross (Engineering, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Quill Adeyemi (Engineering, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
 Working style applied: security paranoid.
 ## Brief
-migrate to typed API client. Delivered on persona credits from Nova Cross's own allowance.
+migrate to typed API client. Delivered on persona credits from Quill Adeyemi's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ migrate to typed API client. Delivered on persona credits from Nova Cross's own 
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Nova Cross. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Quill Adeyemi. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
