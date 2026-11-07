@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Rune Hale | D831 15:30 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| schedule changelog blast | Marketing | Rune Hale | D831 18:05 | `work-assets/marketing/schedule-changelog-blast.md` |
