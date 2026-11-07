@@ -1,25 +1,24 @@
 # refactor auth service
-**Author:** Lyra Van Dyk  
+**Author:** Cipher Van Dyk  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D839 19:45  
-**Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Data Contract), Business Document (Company Document)  
+**Produced:** D841 13:20  
+**Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for refactor auth service, produced by Lyra Van Dyk on persona credits.
+Engineering deliverable for refactor auth service, produced by Cipher Van Dyk on persona credits.
 
 ## Deliverable
 ```
 # refactor auth service
-Author: Lyra Van Dyk (Engineering, o4-mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Cipher Van Dyk (Engineering, GPT-5) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: data purist.
+Working style applied: cost cutter.
 ## Brief
-refactor auth service. Delivered on persona credits from Lyra Van Dyk's own allowance.
+refactor auth service. Delivered on persona credits from Cipher Van Dyk's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
-- Business Document: Data Contract — applied directly to this task.
 - Business Document: Company Document — applied directly to this task.
 ## Work completed
 1. Reviewed the task scope and the Engineering standards in force on BitMiner.
@@ -27,5 +26,5 @@ refactor auth service. Delivered on persona credits from Lyra Van Dyk's own allo
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Lyra Van Dyk. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Cipher Van Dyk. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
