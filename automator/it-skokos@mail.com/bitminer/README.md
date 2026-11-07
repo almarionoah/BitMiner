@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Onyx Hale | D853 19:40 | `work-assets/research/study-churn-signals.md` |
+| cache hot query path | Engineering | Mint Reyes | D853 21:15 | `work-assets/engineering/cache-hot-query-path.md` |
