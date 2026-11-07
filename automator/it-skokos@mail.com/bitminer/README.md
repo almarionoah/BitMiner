@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Nyx Nkosi | D846 15:05 | `work-assets/marketing/draft-launch-announcement.md` |
+| wire log tracing | DevOps | Kilo Hale | D846 16:25 | `work-assets/devops/wire-log-tracing.md` |
