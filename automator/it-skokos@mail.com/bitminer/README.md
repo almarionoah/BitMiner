@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Nova Ito | D855 15:20 | `work-assets/research/study-churn-signals.md` |
+| add retry queue to job runner | Engineering | Mint Van Dyk | D855 16:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
