@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Nyx Okafor | D826 18:35 | `work-assets/research/evaluate-model-routing-costs.md` |
+| benchmark vector store options | Research | Vex Hale | D826 19:50 | `work-assets/research/benchmark-vector-store-options.md` |
