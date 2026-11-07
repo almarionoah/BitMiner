@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Van Dyk | D865 05:15 | `work-assets/engineering/refactor-auth-service.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D865 07:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
