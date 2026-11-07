@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Van Dyk | D847 17:55 | `work-assets/engineering/refactor-auth-service.md` |
+| spin up comparison landing page | Marketing | Cipher Bishop | D847 19:20 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
