@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Nyx Okafor | D839 21:10 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| survey competitor release notes | Research | Onyx Hale | D839 22:25 | `work-assets/research/survey-competitor-release-notes.md` |
