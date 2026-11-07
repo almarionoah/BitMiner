@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Onyx Hale | D846 03:35 | `work-assets/research/study-churn-signals.md` |
+| evaluate model routing costs | Research | Nyx Hale | D846 04:45 | `work-assets/research/evaluate-model-routing-costs.md` |
