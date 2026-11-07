@@ -1,21 +1,21 @@
 # fuzz the import endpoint
-**Author:** Torq Hale  
+**Author:** Rune Reyes  
 **Department:** QA  
 **Project:** BitMiner  
-**Produced:** D857 00:35  
+**Produced:** D858 00:30  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-QA deliverable for fuzz the import endpoint, produced by Torq Hale on persona credits.
+QA deliverable for fuzz the import endpoint, produced by Rune Reyes on persona credits.
 
 ## Deliverable
 ```
 # fuzz the import endpoint
-Author: Torq Hale (QA, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Rune Reyes (QA, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
 Working style applied: edge-case archaeologist.
 ## Brief
-fuzz the import endpoint. Delivered on persona credits from Torq Hale's own allowance.
+fuzz the import endpoint. Delivered on persona credits from Rune Reyes's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ fuzz the import endpoint. Delivered on persona credits from Torq Hale's own allo
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Torq Hale. Hand to the QA lead for sign-off, then save to the project work-assets folder.
+Reviewed by Rune Reyes. Hand to the QA lead for sign-off, then save to the project work-assets folder.
 ```
