@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| fuzz the import endpoint | QA | Cipher Reyes | D835 03:45 | `work-assets/qa/fuzz-the-import-endpoint.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D835 05:00 | `work-assets/engineering/refactor-auth-service.md` |
