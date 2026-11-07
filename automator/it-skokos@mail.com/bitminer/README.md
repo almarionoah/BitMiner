@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Jax Fontaine | D839 03:10 | `work-assets/marketing/draft-launch-announcement.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D839 05:35 | `work-assets/engineering/cache-hot-query-path.md` |
