@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Reyes | D828 14:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| prototype embeddings dedupe | Research | Nova Ito | D828 15:55 | `work-assets/research/prototype-embeddings-dedupe.md` |
