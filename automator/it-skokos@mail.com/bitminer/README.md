@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Onyx Hale | D846 17:45 | `work-assets/research/study-churn-signals.md` |
+| add retry queue to job runner | Engineering | Mint Van Dyk | D846 18:55 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
