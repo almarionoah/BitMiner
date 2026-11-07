@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Byte Ito | D864 09:20 | `work-assets/engineering/split-monolith-module.md` |
+| migrate to typed API client | Engineering | Vex Cross | D864 10:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
