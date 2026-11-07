@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Onyx Fontaine | D821 00:05 | `work-assets/engineering/cache-hot-query-path.md` |
+| schedule changelog blast | Marketing | Halo Van Dyk | D821 01:15 | `work-assets/marketing/schedule-changelog-blast.md` |
