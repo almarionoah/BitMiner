@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Mint Reyes | D856 12:00 | `work-assets/engineering/split-monolith-module.md` |
+| benchmark vector store options | Research | Vex Petrov | D856 13:15 | `work-assets/research/benchmark-vector-store-options.md` |
