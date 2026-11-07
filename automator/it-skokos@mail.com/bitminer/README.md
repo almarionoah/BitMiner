@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Marlow | D821 04:15 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| migrate to typed API client | Engineering | Rune Fontaine | D821 06:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
