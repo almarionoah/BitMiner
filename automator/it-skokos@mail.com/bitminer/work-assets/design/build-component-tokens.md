@@ -1,21 +1,21 @@
 # build component tokens
-**Author:** Nyx Reyes  
+**Author:** Cipher Bishop  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D860 15:00  
+**Produced:** D863 15:50  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for build component tokens, produced by Nyx Reyes on persona credits.
+Design deliverable for build component tokens, produced by Cipher Bishop on persona credits.
 
 ## Deliverable
 ```
 # build component tokens
-Author: Nyx Reyes (Design, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Cipher Bishop (Design, o4-mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: docs evangelist.
+Working style applied: edge-case archaeologist.
 ## Brief
-build component tokens. Delivered on persona credits from Nyx Reyes's own allowance.
+build component tokens. Delivered on persona credits from Cipher Bishop's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ build component tokens. Delivered on persona credits from Nyx Reyes's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Nyx Reyes. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Cipher Bishop. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
