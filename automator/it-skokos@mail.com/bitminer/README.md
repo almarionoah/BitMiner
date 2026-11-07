@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Onyx Hale | D841 17:00 | `work-assets/research/study-churn-signals.md` |
+| split monolith module | Engineering | Vex Cross | D841 18:15 | `work-assets/engineering/split-monolith-module.md` |
