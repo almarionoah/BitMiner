@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Jax Bishop | D820 09:25 | `work-assets/design/simplify-dashboard-density.md` |
+| migrate to typed API client | Engineering | Iris Van Dyk | D820 10:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
