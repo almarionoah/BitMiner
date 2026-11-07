@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut container image size | DevOps | Kilo Hale | D843 08:35 | `work-assets/devops/cut-container-image-size.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D843 11:00 | `work-assets/engineering/migrate-to-typed-api-client.md` |
