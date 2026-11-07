@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Cipher Van Dyk | D844 19:00 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| evaluate model routing costs | Research | Nova Ito | D844 20:15 | `work-assets/research/evaluate-model-routing-costs.md` |
