@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Cipher Van Dyk | D835 16:00 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| brief the case-study post | Marketing | Jax Fontaine | D835 17:15 | `work-assets/marketing/brief-the-case-study-post.md` |
