@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Volt Nkosi | D845 00:20 | `work-assets/research/survey-competitor-release-notes.md` |
+| cut a 30s product demo | Marketing | Cipher Bishop | D845 01:30 | `work-assets/marketing/cut-a-30s-product-demo.md` |
