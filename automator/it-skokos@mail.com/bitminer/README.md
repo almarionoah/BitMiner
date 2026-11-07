@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Prism Reyes | D845 03:55 | `work-assets/marketing/schedule-changelog-blast.md` |
+| brief the case-study post | Marketing | Rune Hale | D845 05:05 | `work-assets/marketing/brief-the-case-study-post.md` |
