@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Lyra Nkosi | D855 06:55 | `work-assets/marketing/brief-the-case-study-post.md` |
+| spin up comparison landing page | Marketing | Rune Hale | D855 08:05 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
