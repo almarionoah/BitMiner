@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Byte Ito | D864 15:55 | `work-assets/engineering/cache-hot-query-path.md` |
+| simplify dashboard density | Design | Nyx Reyes | D864 18:20 | `work-assets/design/simplify-dashboard-density.md` |
