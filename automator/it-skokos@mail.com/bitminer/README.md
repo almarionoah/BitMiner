@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Vex Cross | D832 02:35 | `work-assets/engineering/cache-hot-query-path.md` |
+| load-test checkout | QA | Cipher Reyes | D832 03:55 | `work-assets/qa/load-test-checkout.md` |
