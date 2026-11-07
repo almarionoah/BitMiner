@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Rune Hale | D838 09:35 | `work-assets/marketing/brief-the-case-study-post.md` |
+| cut a 30s product demo | Marketing | Prism Reyes | D838 10:45 | `work-assets/marketing/cut-a-30s-product-demo.md` |
