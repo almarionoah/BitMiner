@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Nova Petrov | D827 10:25 | `work-assets/engineering/split-monolith-module.md` |
+| cache hot query path | Engineering | Vex Cross | D827 11:45 | `work-assets/engineering/cache-hot-query-path.md` |
