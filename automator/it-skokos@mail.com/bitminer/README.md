@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Jax Fontaine | D853 07:05 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| migrate to typed API client | Engineering | Lyra Ito | D853 09:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
