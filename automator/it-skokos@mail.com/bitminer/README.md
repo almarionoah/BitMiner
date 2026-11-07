@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Mint Reyes | D825 14:10 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| cache hot query path | Engineering | Sable Hale | D825 15:20 | `work-assets/engineering/cache-hot-query-path.md` |
