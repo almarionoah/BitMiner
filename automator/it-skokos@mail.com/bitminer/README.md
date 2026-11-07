@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Vex Cross | D854 22:10 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| expand regression suite | QA | Cipher Reyes | D854 23:25 | `work-assets/qa/expand-regression-suite.md` |
