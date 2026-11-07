@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Iris Marlow | D821 06:40 | `work-assets/engineering/refactor-auth-service.md` |
+| add retry queue to job runner | Engineering | Kaelen Thorne | D821 23:25 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
