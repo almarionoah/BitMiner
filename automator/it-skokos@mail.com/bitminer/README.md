@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Byte Hale | D821 23:05 | `work-assets/marketing/brief-the-case-study-post.md` |
+| split monolith module | Engineering | Mint Marlow | D822 00:15 | `work-assets/engineering/split-monolith-module.md` |
