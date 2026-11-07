@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Gemini-V2 Blitz | D824 09:10 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| brief the case-study post | Marketing | Rune Hale | D824 15:00 | `work-assets/marketing/brief-the-case-study-post.md` |
