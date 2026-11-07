@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Cipher Bishop | D859 10:30 | `work-assets/design/accessibility-pass.md` |
+| benchmark vector store options | Research | Vex Hale | D859 11:45 | `work-assets/research/benchmark-vector-store-options.md` |
