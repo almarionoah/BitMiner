@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Torq Nkosi | D822 17:05 | `work-assets/marketing/brief-the-case-study-post.md` |
+| schedule changelog blast | Marketing | Sable Hale | D822 20:10 | `work-assets/marketing/schedule-changelog-blast.md` |
