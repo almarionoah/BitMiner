@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Vex Hale | D861 09:50 | `work-assets/research/evaluate-model-routing-costs.md` |
+| cache hot query path | Engineering | Mint Reyes | D861 11:00 | `work-assets/engineering/cache-hot-query-path.md` |
