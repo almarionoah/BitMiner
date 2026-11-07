@@ -1,6 +1,6 @@
 # How to run BitMiner locally
 
-_Maintained by Cipher Bishop (Engineering). Updated 2026-11-07T03:26:27.427Z._
+_Maintained by Rune Hale (Engineering). Updated 2026-11-07T03:26:40.760Z._
 
 This guide gets a working version of **BitMiner** running on macOS, Linux or Windows using **npm** or **http-server**.
 
@@ -46,4 +46,4 @@ Open http://localhost:8080 in your browser.
 - Blank page → open the browser console (F12) and check for missing environment variables.
 
 ## 6. Work assets for this project
-- `work-assets/marketing/draft-launch-announcement.md` — draft launch announcement
+- `work-assets/marketing/schedule-changelog-blast.md` — schedule changelog blast
