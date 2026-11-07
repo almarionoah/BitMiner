@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Rune Hale | D831 09:20 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| add blue/green deploy | DevOps | Kilo Hale | D831 11:45 | `work-assets/devops/add-blue-green-deploy.md` |
