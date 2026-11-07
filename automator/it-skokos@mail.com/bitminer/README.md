@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Vex Cross | D847 11:50 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| refactor auth service | Engineering | Pixel Bishop | D847 13:05 | `work-assets/engineering/refactor-auth-service.md` |
