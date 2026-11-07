@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Reyes | D839 00:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| draft launch announcement | Marketing | Jax Fontaine | D839 03:10 | `work-assets/marketing/draft-launch-announcement.md` |
