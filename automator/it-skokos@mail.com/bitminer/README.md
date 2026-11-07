@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D862 05:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| evaluate model routing costs | Research | Nyx Okafor | D862 06:55 | `work-assets/research/evaluate-model-routing-costs.md` |
