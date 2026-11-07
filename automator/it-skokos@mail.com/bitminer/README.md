@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| brief the case-study post | Marketing | Sable Hale | D820 20:50 | `work-assets/marketing/brief-the-case-study-post.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D820 22:05 | `work-assets/engineering/cache-hot-query-path.md` |
