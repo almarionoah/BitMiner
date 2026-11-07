@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Reyes | D827 03:00 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| expand regression suite | QA | Onyx Nkosi | D827 04:15 | `work-assets/qa/expand-regression-suite.md` |
