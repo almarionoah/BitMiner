@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| schedule changelog blast | Marketing | Halo Van Dyk | D821 01:15 | `work-assets/marketing/schedule-changelog-blast.md` |
+| refactor auth service | Engineering | Iris Marlow | D821 06:40 | `work-assets/engineering/refactor-auth-service.md` |
