@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Sable Hale | D827 12:55 | `work-assets/engineering/cache-hot-query-path.md` |
+| survey competitor release notes | Research | Onyx Hale | D827 15:25 | `work-assets/research/survey-competitor-release-notes.md` |
