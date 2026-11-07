@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Jax Fontaine | D853 04:35 | `work-assets/marketing/draft-launch-announcement.md` |
+| cut a 30s product demo | Marketing | Jax Fontaine | D853 07:05 | `work-assets/marketing/cut-a-30s-product-demo.md` |
