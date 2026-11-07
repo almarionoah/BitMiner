@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Reyes | D865 20:25 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| autoscale worker pool | DevOps | Kilo Hale | D865 21:40 | `work-assets/devops/autoscale-worker-pool.md` |
