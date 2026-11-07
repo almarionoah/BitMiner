@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Vex Hale | D849 09:40 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| draft launch announcement | Marketing | Cipher Bishop | D849 11:00 | `work-assets/marketing/draft-launch-announcement.md` |
