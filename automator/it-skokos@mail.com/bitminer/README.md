@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Cipher Van Dyk | D852 13:30 | `work-assets/engineering/split-monolith-module.md` |
+| add retry queue to job runner | Engineering | Vex Cross | D852 14:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
