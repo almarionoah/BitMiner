@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Vex Cross | D843 07:20 | `work-assets/engineering/cache-hot-query-path.md` |
+| cut container image size | DevOps | Kilo Hale | D843 08:35 | `work-assets/devops/cut-container-image-size.md` |
