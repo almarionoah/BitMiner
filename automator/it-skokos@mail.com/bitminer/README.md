@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Pixel Bishop | D844 07:55 | `work-assets/engineering/refactor-auth-service.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D844 09:10 | `work-assets/engineering/split-monolith-module.md` |
