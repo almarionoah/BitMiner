@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Kilo Hale | D832 20:10 | `work-assets/devops/add-blue-green-deploy.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D832 21:25 | `work-assets/engineering/migrate-to-typed-api-client.md` |
