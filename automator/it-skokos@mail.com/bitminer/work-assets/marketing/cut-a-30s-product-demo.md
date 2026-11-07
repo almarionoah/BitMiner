@@ -1,21 +1,21 @@
 # cut a 30s product demo
-**Author:** Sable Hale  
+**Author:** Vex Van Dyk  
 **Department:** Marketing  
 **Project:** BitMiner  
-**Produced:** D821 00:55  
+**Produced:** D822 07:50  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Marketing deliverable for cut a 30s product demo, produced by Sable Hale on persona credits.
+Marketing deliverable for cut a 30s product demo, produced by Vex Van Dyk on persona credits.
 
 ## Deliverable
 ```
 # cut a 30s product demo
-Author: Sable Hale (Marketing, Gemini 3.7 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Vex Van Dyk (Marketing, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
 Working style applied: pragmatic shipper.
 ## Brief
-cut a 30s product demo. Delivered on persona credits from Sable Hale's own allowance.
+cut a 30s product demo. Delivered on persona credits from Vex Van Dyk's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ cut a 30s product demo. Delivered on persona credits from Sable Hale's own allow
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Sable Hale. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
+Reviewed by Vex Van Dyk. Hand to the Marketing lead for sign-off, then save to the project work-assets folder.
 ```
