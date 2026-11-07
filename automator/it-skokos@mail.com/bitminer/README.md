@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Byte Ito | D829 10:00 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| prototype embeddings dedupe | Research | Nyx Hale | D829 11:20 | `work-assets/research/prototype-embeddings-dedupe.md` |
