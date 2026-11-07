@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Kilo Van Dyk | D865 00:25 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| add contract tests | QA | Cipher Reyes | D865 01:35 | `work-assets/qa/add-contract-tests.md` |
