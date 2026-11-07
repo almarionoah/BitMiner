@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| load-test checkout | QA | Torq Hale | D861 05:00 | `work-assets/qa/load-test-checkout.md` |
+| add blue/green deploy | DevOps | Kilo Hale | D861 06:10 | `work-assets/devops/add-blue-green-deploy.md` |
