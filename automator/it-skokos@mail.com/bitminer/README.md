@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D825 03:00 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| spin up comparison landing page | Marketing | Mint Reyes | D825 06:20 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
