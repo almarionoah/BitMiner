@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Cipher Bishop | D838 08:20 | `work-assets/marketing/draft-launch-announcement.md` |
+| brief the case-study post | Marketing | Rune Hale | D838 09:35 | `work-assets/marketing/brief-the-case-study-post.md` |
