@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut a 30s product demo | Marketing | Iris Hale | D822 13:10 | `work-assets/marketing/cut-a-30s-product-demo.md` |
+| add retry queue to job runner | Engineering | Quill Adeyemi | D822 14:40 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
