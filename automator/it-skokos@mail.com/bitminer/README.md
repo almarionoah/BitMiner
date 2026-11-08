@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Sable Ito | D843 14:35 | `work-assets/engineering/cache-hot-query-path.md` |
+| build component tokens | Design | Zed Okafor | D843 15:50 | `work-assets/design/build-component-tokens.md` |
