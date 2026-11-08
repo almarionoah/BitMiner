@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Gemini-V2 Blitz | D860 11:25 | `work-assets/design/accessibility-pass.md` |
+| harden CI pipeline | DevOps | Flashy Swift | D860 12:40 | `work-assets/devops/harden-ci-pipeline.md` |
