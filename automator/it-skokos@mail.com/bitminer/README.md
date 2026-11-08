@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Nova Marlow | D839 17:30 | `work-assets/engineering/split-monolith-module.md` |
+| refactor auth service | Engineering | Byte Reyes | D839 20:05 | `work-assets/engineering/refactor-auth-service.md` |
