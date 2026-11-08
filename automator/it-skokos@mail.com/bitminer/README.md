@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Mint Reyes | D832 07:15 | `work-assets/engineering/split-monolith-module.md` |
+| cut container image size | DevOps | Onyx Van Dyk | D832 09:45 | `work-assets/devops/cut-container-image-size.md` |
