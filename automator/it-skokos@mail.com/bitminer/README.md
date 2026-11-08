@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Onyx Fontaine | D837 08:35 | `work-assets/research/survey-competitor-release-notes.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D837 10:00 | `work-assets/engineering/migrate-to-typed-api-client.md` |
