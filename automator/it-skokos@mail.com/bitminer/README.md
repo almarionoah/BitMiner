@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| harden CI pipeline | DevOps | Zed Bishop | D837 21:15 | `work-assets/devops/harden-ci-pipeline.md` |
+| add retry queue to job runner | Engineering | Byte Reyes | D837 23:55 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
