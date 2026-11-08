@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Sable Nkosi | D834 03:25 | `work-assets/design/build-component-tokens.md` |
+| cache hot query path | Engineering | Mint Reyes | D834 04:40 | `work-assets/engineering/cache-hot-query-path.md` |
