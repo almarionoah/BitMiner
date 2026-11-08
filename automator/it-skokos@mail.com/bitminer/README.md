@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Reyes | D837 12:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| rework onboarding flow | Design | Torq Hale | D837 13:40 | `work-assets/design/rework-onboarding-flow.md` |
