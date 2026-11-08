@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Sable Okafor | D837 20:45 | `work-assets/research/evaluate-model-routing-costs.md` |
+| wire log tracing | DevOps | Cipher Bishop | D837 21:55 | `work-assets/devops/wire-log-tracing.md` |
