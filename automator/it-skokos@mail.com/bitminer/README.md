@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Jax Ito | D828 23:20 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D829 00:45 | `work-assets/engineering/split-monolith-module.md` |
