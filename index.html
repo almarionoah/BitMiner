@@ -3,10 +3,150 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BitMiner</title>
+    <title>BitMiner - Crypto Mining & Blab Converter</title>
+    <meta name="description" content="Next-gen BitMiner cryptocurrency mining node and base64 blab conversion terminal." />
+    <meta name="theme-color" content="#0f172a" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
-    <div id="app">BitMiner</div>
+    <div id="app">
+      <header class="app-header">
+        <div class="brand">
+          <div class="brand-icon">⚡</div>
+          <div>
+            <h1>BitMiner</h1>
+            <span class="version-tag">v1.0.0 Enterprise Node</span>
+          </div>
+        </div>
+        <div class="header-actions">
+          <div class="live-badge" id="liveStatus">
+            <span class="dot inactive"></span> Idle
+          </div>
+          <button id="pwaInstallBtn" class="btn btn-outline hidden" aria-label="Install BitMiner App">
+            📥 Install App
+          </button>
+        </div>
+      </header>
+
+      <nav class="app-nav">
+        <button class="nav-tab active" data-tab="mine-tab" id="tabMine">
+          ⛏️ Mine
+        </button>
+        <button class="nav-tab" data-tab="convert-tab" id="tabConvert">
+          🔄 Convert
+        </button>
+      </nav>
+
+      <main class="app-main">
+        <!-- MINING PANEL -->
+        <section id="mine-tab" class="tab-content active">
+          <div class="metrics-grid">
+            <div class="metric-card">
+              <span class="metric-label">Hashrate</span>
+              <div class="metric-value" id="hashrateVal">0.00 MH/s</div>
+            </div>
+            <div class="metric-card">
+              <span class="metric-label">Generated Blabs</span>
+              <div class="metric-value" id="blabCountVal">0</div>
+            </div>
+            <div class="metric-card">
+              <span class="metric-label">Unconverted Balance</span>
+              <div class="metric-value Highlight" id="unconvertedVal">0.0000 BLAB</div>
+            </div>
+            <div class="metric-card">
+              <span class="metric-label">Converted Earnings</span>
+              <div class="metric-value accent" id="convertedBalanceVal">$0.00 USD</div>
+            </div>
+          </div>
+
+          <div class="action-card">
+            <div class="mining-controls">
+              <button id="toggleMiningBtn" class="btn btn-primary btn-large">
+                ⚡ Start Mining Engine
+              </button>
+              <div class="mining-rate-setting">
+                <label for="mineSpeed">Mining Interval:</label>
+                <select id="mineSpeed" class="select-input">
+                  <option value="1500">Fast (1.5s)</option>
+                  <option value="3000" selected>Standard (3.0s)</option>
+                  <option value="5000">Eco (5.0s)</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- CONVERT PANEL -->
+        <section id="convert-tab" class="tab-content">
+          <div class="convert-banner">
+            <h3>Blab Currency Conversion Engine</h3>
+            <p>Convert your generated base64 blabs into digital currency payouts with custom conversion amounts.</p>
+          </div>
+
+          <div class="convert-settings-bar">
+            <div class="setting-group">
+              <label for="globalRateInput">Target Rate ($/BLAB):</label>
+              <input type="number" id="globalRateInput" value="45.50" step="0.1" min="1" class="number-input" />
+            </div>
+            <div class="setting-group">
+              <label class="toggle-label">
+                <input type="checkbox" id="autoConvertToggle" />
+                <span>Auto-Convert Mined Blabs</span>
+              </label>
+            </div>
+            <button id="convertAllBtn" class="btn btn-accent">
+              🚀 Convert All Pending Blabs
+            </button>
+          </div>
+
+          <div class="manual-input-card">
+            <h4>Manual Custom Email & Amount Conversion</h4>
+            <form id="manualConvertForm" class="inline-form">
+              <input type="email" id="manualEmailInput" placeholder="Enter user email (e.g., node@bitminer.io)" required class="text-input" />
+              <input type="number" id="manualAmountInput" placeholder="Amount (BLAB)" value="1.0" step="0.1" min="0.01" required class="number-input" />
+              <button type="submit" class="btn btn-primary">Execute Blab Conversion</button>
+            </form>
+          </div>
+
+          <div class="blabs-table-container">
+            <table class="blabs-table">
+              <thead>
+                <tr>
+                  <th>Timestamp</th>
+                  <th>Base64 Encrypted Email</th>
+                  <th>Base64 Key Value</th>
+                  <th>Combined Base64 Blab</th>
+                  <th>Conversion Amount</th>
+                  <th>Action / Status</th>
+                </tr>
+              </thead>
+              <tbody id="blabsTableBody">
+                <tr class="empty-row">
+                  <td colspan="6">No blabs generated yet. Start mining or process a manual conversion.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <!-- FEED TERMINAL -->
+        <section class="terminal-section">
+          <div class="terminal-header">
+            <div class="terminal-title">
+              <span class="terminal-dot red"></span>
+              <span class="terminal-dot yellow"></span>
+              <span class="terminal-dot green"></span>
+              <span class="terminal-name">Feed Terminal & Processing Console</span>
+            </div>
+            <div class="terminal-actions">
+              <button id="clearTerminalBtn" class="btn btn-small btn-ghost">Clear Log</button>
+            </div>
+          </div>
+          <div id="feedTerminal" class="feed-terminal" aria-live="polite"></div>
+        </section>
+      </main>
+    </div>
     <script type="module" src="/main.js"></script>
   </body>
 </html>
