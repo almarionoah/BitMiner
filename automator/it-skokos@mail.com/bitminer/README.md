@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Sable Nkosi | D837 03:40 | `work-assets/design/mobile-nav-overhaul.md` |
+| split monolith module | Engineering | Jax Adeyemi | D837 04:55 | `work-assets/engineering/split-monolith-module.md` |
