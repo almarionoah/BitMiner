@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Pixel Hale | D833 19:55 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| split monolith module | Engineering | Pixel Hale | D833 21:20 | `work-assets/engineering/split-monolith-module.md` |
