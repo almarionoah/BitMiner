@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Iris Marlow | D842 09:45 | `work-assets/engineering/refactor-auth-service.md` |
+| add blue/green deploy | DevOps | Onyx Van Dyk | D842 11:00 | `work-assets/devops/add-blue-green-deploy.md` |
