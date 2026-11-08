@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Nyx Bishop | D837 08:40 | `work-assets/design/simplify-dashboard-density.md` |
+| simplify dashboard density | Design | Nova Fontaine | D837 10:00 | `work-assets/design/simplify-dashboard-density.md` |
