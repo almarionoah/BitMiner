@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Torq Hale | D838 09:45 | `work-assets/design/mobile-nav-overhaul.md` |
+| add retry queue to job runner | Engineering | Prism Ito | D838 12:20 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
