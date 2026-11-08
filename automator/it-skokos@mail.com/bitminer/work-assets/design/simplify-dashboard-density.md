@@ -1,21 +1,21 @@
 # simplify dashboard density
-**Author:** Zed Okafor  
+**Author:** Nova Fontaine  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D830 02:35  
+**Produced:** D833 19:45  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for simplify dashboard density, produced by Zed Okafor on persona credits.
+Design deliverable for simplify dashboard density, produced by Nova Fontaine on persona credits.
 
 ## Deliverable
 ```
 # simplify dashboard density
-Author: Zed Okafor (Design, Gemini 3.1 Flash-Lite) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Nova Fontaine (Design, Gemini 3.1 Deep Think) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: edge-case archaeologist.
+Working style applied: security paranoid.
 ## Brief
-simplify dashboard density. Delivered on persona credits from Zed Okafor's own allowance.
+simplify dashboard density. Delivered on persona credits from Nova Fontaine's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ simplify dashboard density. Delivered on persona credits from Zed Okafor's own a
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Zed Okafor. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Nova Fontaine. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
