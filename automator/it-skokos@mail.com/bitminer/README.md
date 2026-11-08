@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Quill Cross | D832 23:25 | `work-assets/devops/add-blue-green-deploy.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D833 00:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
