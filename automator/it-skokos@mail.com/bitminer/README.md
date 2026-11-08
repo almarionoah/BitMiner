@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Prism Reyes | D838 08:30 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| mobile nav overhaul | Design | Torq Hale | D838 09:45 | `work-assets/design/mobile-nav-overhaul.md` |
