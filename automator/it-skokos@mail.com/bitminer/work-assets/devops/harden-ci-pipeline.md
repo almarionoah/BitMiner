@@ -1,25 +1,24 @@
 # harden CI pipeline
-**Author:** Flashy Swift  
+**Author:** Kilo Fontaine  
 **Department:** DevOps  
 **Project:** BitMiner  
-**Produced:** D860 12:40  
-**Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Data Contract), Business Document (Company Document)  
+**Produced:** D829 07:55  
+**Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-DevOps deliverable for harden CI pipeline, produced by Flashy Swift on persona credits.
+DevOps deliverable for harden CI pipeline, produced by Kilo Fontaine on persona credits.
 
 ## Deliverable
 ```
 # harden CI pipeline
-Author: Flashy Swift (DevOps, gemini-1.5-flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Kilo Fontaine (DevOps, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: data purist.
+Working style applied: security paranoid.
 ## Brief
-harden CI pipeline. Delivered on persona credits from Flashy Swift's own allowance.
+harden CI pipeline. Delivered on persona credits from Kilo Fontaine's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
-- Business Document: Data Contract — applied directly to this task.
 - Business Document: Company Document — applied directly to this task.
 ## Work completed
 1. Reviewed the task scope and the DevOps standards in force on BitMiner.
@@ -27,5 +26,5 @@ harden CI pipeline. Delivered on persona credits from Flashy Swift's own allowan
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Flashy Swift. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
+Reviewed by Kilo Fontaine. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
 ```
