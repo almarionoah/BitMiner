@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Rune Okafor | D841 18:25 | `work-assets/research/survey-competitor-release-notes.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D841 19:40 | `work-assets/engineering/cache-hot-query-path.md` |
