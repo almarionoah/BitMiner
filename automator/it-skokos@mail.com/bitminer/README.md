@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Torq Hale | D837 20:00 | `work-assets/design/accessibility-pass.md` |
+| harden CI pipeline | DevOps | Zed Bishop | D837 21:15 | `work-assets/devops/harden-ci-pipeline.md` |
