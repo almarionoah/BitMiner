@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Nova Marlow | D862 02:25 | `work-assets/engineering/split-monolith-module.md` |
+| migrate to typed API client | Engineering | Nova Marlow | D862 03:45 | `work-assets/engineering/migrate-to-typed-api-client.md` |
