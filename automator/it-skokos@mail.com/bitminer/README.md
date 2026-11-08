@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| rework onboarding flow | Design | Lyra Hale | D840 06:05 | `work-assets/design/rework-onboarding-flow.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D840 07:15 | `work-assets/engineering/migrate-to-typed-api-client.md` |
