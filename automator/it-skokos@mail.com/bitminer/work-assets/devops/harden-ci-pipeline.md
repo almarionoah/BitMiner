@@ -1,21 +1,21 @@
 # harden CI pipeline
-**Author:** Kilo Fontaine  
+**Author:** Volt Marlow  
 **Department:** DevOps  
 **Project:** BitMiner  
-**Produced:** D829 07:55  
+**Produced:** D836 23:45  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-DevOps deliverable for harden CI pipeline, produced by Kilo Fontaine on persona credits.
+DevOps deliverable for harden CI pipeline, produced by Volt Marlow on persona credits.
 
 ## Deliverable
 ```
 # harden CI pipeline
-Author: Kilo Fontaine (DevOps, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Volt Marlow (DevOps, GPT-5.5) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: security paranoid.
+Working style applied: data purist.
 ## Brief
-harden CI pipeline. Delivered on persona credits from Kilo Fontaine's own allowance.
+harden CI pipeline. Delivered on persona credits from Volt Marlow's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ harden CI pipeline. Delivered on persona credits from Kilo Fontaine's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Kilo Fontaine. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
+Reviewed by Volt Marlow. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
 ```
