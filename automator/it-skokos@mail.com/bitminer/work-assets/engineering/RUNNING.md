@@ -1,6 +1,6 @@
 # How to run BitMiner locally
 
-_Maintained by Kaelen Thorne (Engineering). Updated 2026-11-08T21:25:25.382Z._
+_Maintained by Kaelen Thorne (Engineering). Updated 2026-11-08T21:25:38.845Z._
 
 This guide gets a working version of **BitMiner** running on macOS, Linux or Windows using **npm** or **http-server**.
 
