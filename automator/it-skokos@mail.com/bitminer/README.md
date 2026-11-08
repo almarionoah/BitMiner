@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Zed Bishop | D838 22:15 | `work-assets/devops/autoscale-worker-pool.md` |
+| simplify dashboard density | Design | Onyx Van Dyk | D839 00:20 | `work-assets/design/simplify-dashboard-density.md` |
