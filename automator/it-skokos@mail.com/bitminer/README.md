@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Lyra Van Dyk | D858 08:25 | `work-assets/engineering/split-monolith-module.md` |
+| cache hot query path | Engineering | Mint Ito | D858 10:00 | `work-assets/engineering/cache-hot-query-path.md` |
