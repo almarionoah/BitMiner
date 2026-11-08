@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Iris Cross | D830 07:15 | `work-assets/engineering/cache-hot-query-path.md` |
+| split monolith module | Engineering | Byte Marlow | D830 09:40 | `work-assets/engineering/split-monolith-module.md` |
