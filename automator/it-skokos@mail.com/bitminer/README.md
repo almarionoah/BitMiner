@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Byte Marlow | D842 19:30 | `work-assets/engineering/cache-hot-query-path.md` |
+| simplify dashboard density | Design | Nova Marlow | D842 20:50 | `work-assets/design/simplify-dashboard-density.md` |
