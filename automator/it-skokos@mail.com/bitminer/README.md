@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Byte Bishop | D830 03:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| split monolith module | Engineering | Rune Nkosi | D830 04:45 | `work-assets/engineering/split-monolith-module.md` |
