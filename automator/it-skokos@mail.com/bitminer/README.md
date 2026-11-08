@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Prism Van Dyk | D861 11:05 | `work-assets/design/mobile-nav-overhaul.md` |
+| add retry queue to job runner | Engineering | Lyra Van Dyk | D861 12:25 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
