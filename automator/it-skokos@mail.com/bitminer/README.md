@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Onyx Fontaine | D832 19:35 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| cache hot query path | Engineering | Rune Nkosi | D832 20:45 | `work-assets/engineering/cache-hot-query-path.md` |
