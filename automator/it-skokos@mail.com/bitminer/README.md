@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Byte Marlow | D843 04:55 | `work-assets/engineering/cache-hot-query-path.md` |
+| build component tokens | Design | Onyx Bishop | D843 07:45 | `work-assets/design/build-component-tokens.md` |
