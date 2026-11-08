@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Echo Hale | D824 23:20 | `work-assets/devops/add-blue-green-deploy.md` |
+| spin up comparison landing page | Marketing | Pixel Van Dyk | D825 02:35 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
