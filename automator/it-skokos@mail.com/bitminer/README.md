@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Nova Fontaine | D837 17:25 | `work-assets/design/accessibility-pass.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D837 18:50 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
