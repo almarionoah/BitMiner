@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Rune Okafor | D838 06:45 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| migrate to typed API client | Engineering | Volt Marlow | D838 07:55 | `work-assets/engineering/migrate-to-typed-api-client.md` |
