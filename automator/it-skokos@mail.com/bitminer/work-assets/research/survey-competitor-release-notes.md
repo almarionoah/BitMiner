@@ -1,21 +1,21 @@
 # survey competitor release notes
-**Author:** Sable Okafor  
+**Author:** Rune Okafor  
 **Department:** Research  
 **Project:** BitMiner  
-**Produced:** D839 08:35  
+**Produced:** D840 09:50  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Research deliverable for survey competitor release notes, produced by Sable Okafor on persona credits.
+Research deliverable for survey competitor release notes, produced by Rune Okafor on persona credits.
 
 ## Deliverable
 ```
 # survey competitor release notes
-Author: Sable Okafor (Research, GPT-5) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Rune Okafor (Research, Gemini 3.7 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
 Working style applied: pragmatic shipper.
 ## Brief
-survey competitor release notes. Delivered on persona credits from Sable Okafor's own allowance.
+survey competitor release notes. Delivered on persona credits from Rune Okafor's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ survey competitor release notes. Delivered on persona credits from Sable Okafor'
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Sable Okafor. Hand to the Research lead for sign-off, then save to the project work-assets folder.
+Reviewed by Rune Okafor. Hand to the Research lead for sign-off, then save to the project work-assets folder.
 ```
