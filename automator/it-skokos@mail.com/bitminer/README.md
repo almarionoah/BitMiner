@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Iris Marlow | D835 09:50 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| cache hot query path | Engineering | Jax Adeyemi | D835 11:05 | `work-assets/engineering/cache-hot-query-path.md` |
