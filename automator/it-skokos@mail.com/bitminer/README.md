@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Pixel Hale | D840 16:05 | `work-assets/engineering/refactor-auth-service.md` |
+| split monolith module | Engineering | Mint Reyes | D840 17:20 | `work-assets/engineering/split-monolith-module.md` |
