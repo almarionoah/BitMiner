@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Mint Hale | D827 04:30 | `work-assets/design/accessibility-pass.md` |
+| migrate to typed API client | Engineering | Rune Van Dyk | D827 06:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
