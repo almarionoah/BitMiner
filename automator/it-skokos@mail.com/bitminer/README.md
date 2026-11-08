@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Rune Bishop | D832 05:45 | `work-assets/research/study-churn-signals.md` |
+| split monolith module | Engineering | Mint Reyes | D832 07:15 | `work-assets/engineering/split-monolith-module.md` |
