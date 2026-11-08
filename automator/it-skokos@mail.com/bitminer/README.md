@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Echo Adeyemi | D842 06:15 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| add retry queue to job runner | Engineering | Prism Ito | D842 07:30 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
