@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Torq Hale | D843 09:40 | `work-assets/design/simplify-dashboard-density.md` |
+| cache hot query path | Engineering | Sable Ito | D843 14:35 | `work-assets/engineering/cache-hot-query-path.md` |
