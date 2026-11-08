@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Mint Reyes | D841 10:25 | `work-assets/engineering/split-monolith-module.md` |
+| mobile nav overhaul | Design | Torq Hale | D841 17:10 | `work-assets/design/mobile-nav-overhaul.md` |
