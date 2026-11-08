@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Nova Marlow | D861 13:35 | `work-assets/design/simplify-dashboard-density.md` |
+| migrate to typed API client | Engineering | Byte Marlow | D861 14:50 | `work-assets/engineering/migrate-to-typed-api-client.md` |
