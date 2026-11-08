@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Pixel Nkosi | D836 09:35 | `work-assets/design/mobile-nav-overhaul.md` |
+| prototype embeddings dedupe | Research | Rune Bishop | D836 12:55 | `work-assets/research/prototype-embeddings-dedupe.md` |
