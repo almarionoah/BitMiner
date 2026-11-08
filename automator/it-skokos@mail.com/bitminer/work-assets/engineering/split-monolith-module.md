@@ -1,21 +1,21 @@
 # split monolith module
-**Author:** Nova Marlow  
+**Author:** Rune Nkosi  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D862 02:25  
+**Produced:** D828 17:55  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for split monolith module, produced by Nova Marlow on persona credits.
+Engineering deliverable for split monolith module, produced by Rune Nkosi on persona credits.
 
 ## Deliverable
 ```
 # split monolith module
-Author: Nova Marlow (Engineering, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Rune Nkosi (Engineering, GPT-4o) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: cost cutter.
+Working style applied: obsessive refactorer.
 ## Brief
-split monolith module. Delivered on persona credits from Nova Marlow's own allowance.
+split monolith module. Delivered on persona credits from Rune Nkosi's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ split monolith module. Delivered on persona credits from Nova Marlow's own allow
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Nova Marlow. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Rune Nkosi. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
