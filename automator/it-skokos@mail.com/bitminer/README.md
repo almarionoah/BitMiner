@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Lyra Van Dyk | D829 17:00 | `work-assets/engineering/split-monolith-module.md` |
+| add blue/green deploy | DevOps | Rune Cross | D829 19:15 | `work-assets/devops/add-blue-green-deploy.md` |
