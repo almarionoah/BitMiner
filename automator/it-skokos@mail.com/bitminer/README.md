@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Fig Okafor | D840 19:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| split monolith module | Engineering | Rune Van Dyk | D841 00:25 | `work-assets/engineering/split-monolith-module.md` |
