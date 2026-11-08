@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Zed Bishop | D834 05:50 | `work-assets/devops/wire-log-tracing.md` |
+| add blue/green deploy | DevOps | Sable Marlow | D834 07:05 | `work-assets/devops/add-blue-green-deploy.md` |
