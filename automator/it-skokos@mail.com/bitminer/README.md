@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Fig Okafor | D861 19:50 | `work-assets/engineering/refactor-auth-service.md` |
+| accessibility pass | Design | Torq Hale | D861 21:00 | `work-assets/design/accessibility-pass.md` |
