@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Iris Marlow | D835 19:45 | `work-assets/engineering/cache-hot-query-path.md` |
+| benchmark vector store options | Research | Sable Okafor | D835 22:20 | `work-assets/research/benchmark-vector-store-options.md` |
