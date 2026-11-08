@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Pixel Hale | D835 03:25 | `work-assets/engineering/refactor-auth-service.md` |
+| study churn signals | Research | Torq Cross | D835 04:45 | `work-assets/research/study-churn-signals.md` |
