@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Onyx Van Dyk | D842 04:45 | `work-assets/devops/wire-log-tracing.md` |
+| refactor auth service | Engineering | Mint Reyes | D842 05:55 | `work-assets/engineering/refactor-auth-service.md` |
