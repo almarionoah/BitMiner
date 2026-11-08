@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Vex Ito | D838 14:45 | `work-assets/design/simplify-dashboard-density.md` |
+| mobile nav overhaul | Design | Torq Hale | D838 16:00 | `work-assets/design/mobile-nav-overhaul.md` |
