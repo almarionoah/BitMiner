@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| Ensure the conversion functionality allows user to input amount for each blab conversion | Engineering | Lyra Van Dyk | D857 01:10 | `work-assets/engineering/ensure-the-conversion-functionality-allows-user-.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D857 02:45 | `work-assets/engineering/migrate-to-typed-api-client.md` |
