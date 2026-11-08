@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Sable Nkosi | D830 06:00 | `work-assets/design/accessibility-pass.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D830 07:15 | `work-assets/engineering/refactor-auth-service.md` |
