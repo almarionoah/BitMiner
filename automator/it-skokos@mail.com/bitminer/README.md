@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Iris Marlow | D836 22:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| harden CI pipeline | DevOps | Volt Marlow | D836 23:45 | `work-assets/devops/harden-ci-pipeline.md` |
