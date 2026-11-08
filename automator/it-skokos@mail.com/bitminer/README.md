@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Fig Okafor | D834 08:05 | `work-assets/design/build-component-tokens.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D834 09:50 | `work-assets/engineering/refactor-auth-service.md` |
