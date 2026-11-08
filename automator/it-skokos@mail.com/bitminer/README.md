@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Kilo Fontaine | D829 02:05 | `work-assets/devops/autoscale-worker-pool.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D829 03:30 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
