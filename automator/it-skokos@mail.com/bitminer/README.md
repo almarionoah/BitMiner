@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| rework onboarding flow | Design | Fig Okafor | D837 19:25 | `work-assets/design/rework-onboarding-flow.md` |
+| evaluate model routing costs | Research | Sable Okafor | D837 20:45 | `work-assets/research/evaluate-model-routing-costs.md` |
