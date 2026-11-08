@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Rune Bishop | D842 00:50 | `work-assets/research/evaluate-model-routing-costs.md` |
+| autoscale worker pool | DevOps | Quill Cross | D842 03:25 | `work-assets/devops/autoscale-worker-pool.md` |
