@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Quill Cross | D839 19:40 | `work-assets/devops/autoscale-worker-pool.md` |
+| migrate to typed API client | Engineering | Nova Okafor | D839 20:50 | `work-assets/engineering/migrate-to-typed-api-client.md` |
