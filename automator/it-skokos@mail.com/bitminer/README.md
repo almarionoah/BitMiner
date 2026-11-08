@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Zed Okafor | D830 02:35 | `work-assets/design/simplify-dashboard-density.md` |
+| add retry queue to job runner | Engineering | Byte Marlow | D830 03:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
