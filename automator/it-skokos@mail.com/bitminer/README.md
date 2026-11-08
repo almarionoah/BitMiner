@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| rework onboarding flow | Design | Fig Okafor | D835 18:25 | `work-assets/design/rework-onboarding-flow.md` |
+| cache hot query path | Engineering | Iris Marlow | D835 19:45 | `work-assets/engineering/cache-hot-query-path.md` |
