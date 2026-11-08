@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Gemini-V2 Blitz | D834 12:00 | `work-assets/design/mobile-nav-overhaul.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D835 14:35 | `work-assets/engineering/cache-hot-query-path.md` |
