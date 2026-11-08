@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Torq Cross | D839 01:50 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| evaluate model routing costs | Research | Rune Okafor | D839 03:20 | `work-assets/research/evaluate-model-routing-costs.md` |
