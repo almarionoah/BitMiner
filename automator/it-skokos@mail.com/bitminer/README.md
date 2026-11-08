@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Nova Fontaine | D837 03:40 | `work-assets/design/simplify-dashboard-density.md` |
+| refactor auth service | Engineering | Onyx Van Dyk | D837 05:00 | `work-assets/engineering/refactor-auth-service.md` |
