@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Iris Marlow | D840 00:35 | `work-assets/engineering/refactor-auth-service.md` |
+| study churn signals | Research | Rune Okafor | D840 03:05 | `work-assets/research/study-churn-signals.md` |
