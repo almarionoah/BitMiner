@@ -1,21 +1,21 @@
 # cache hot query path
-**Author:** Prism Reyes  
+**Author:** Iris Cross  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D830 06:05  
+**Produced:** D830 07:15  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for cache hot query path, produced by Prism Reyes on persona credits.
+Engineering deliverable for cache hot query path, produced by Iris Cross on persona credits.
 
 ## Deliverable
 ```
 # cache hot query path
-Author: Prism Reyes (Engineering, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Iris Cross (Engineering, o3 mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: data purist.
+Working style applied: cost cutter.
 ## Brief
-cache hot query path. Delivered on persona credits from Prism Reyes's own allowance.
+cache hot query path. Delivered on persona credits from Iris Cross's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ cache hot query path. Delivered on persona credits from Prism Reyes's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Prism Reyes. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Iris Cross. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
