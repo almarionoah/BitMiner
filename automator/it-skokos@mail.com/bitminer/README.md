@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Lyra Van Dyk | D839 22:35 | `work-assets/engineering/split-monolith-module.md` |
+| build component tokens | Design | Torq Hale | D839 23:50 | `work-assets/design/build-component-tokens.md` |
