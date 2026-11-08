@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Onyx Fontaine | D836 01:55 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| cut container image size | DevOps | Quill Cross | D836 03:10 | `work-assets/devops/cut-container-image-size.md` |
