@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Quill Cross | D828 16:45 | `work-assets/devops/wire-log-tracing.md` |
+| split monolith module | Engineering | Rune Nkosi | D828 17:55 | `work-assets/engineering/split-monolith-module.md` |
