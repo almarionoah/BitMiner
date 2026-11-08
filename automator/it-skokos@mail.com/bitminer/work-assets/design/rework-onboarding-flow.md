@@ -1,21 +1,21 @@
 # rework onboarding flow
-**Author:** Nyx Reyes  
+**Author:** Torq Hale  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D859 05:35  
+**Produced:** D827 08:50  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for rework onboarding flow, produced by Nyx Reyes on persona credits.
+Design deliverable for rework onboarding flow, produced by Torq Hale on persona credits.
 
 ## Deliverable
 ```
 # rework onboarding flow
-Author: Nyx Reyes (Design, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Torq Hale (Design, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: docs evangelist.
+Working style applied: security paranoid.
 ## Brief
-rework onboarding flow. Delivered on persona credits from Nyx Reyes's own allowance.
+rework onboarding flow. Delivered on persona credits from Torq Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ rework onboarding flow. Delivered on persona credits from Nyx Reyes's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Nyx Reyes. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Torq Hale. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
