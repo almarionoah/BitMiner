@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Reyes | D839 07:20 | `work-assets/engineering/refactor-auth-service.md` |
+| survey competitor release notes | Research | Sable Okafor | D839 08:35 | `work-assets/research/survey-competitor-release-notes.md` |
