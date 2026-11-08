@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Rune Okafor | D833 07:10 | `work-assets/research/evaluate-model-routing-costs.md` |
+| cache hot query path | Engineering | Mint Reyes | D833 08:20 | `work-assets/engineering/cache-hot-query-path.md` |
