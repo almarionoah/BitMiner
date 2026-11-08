@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Prism Ito | D840 12:10 | `work-assets/engineering/cache-hot-query-path.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D840 14:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
