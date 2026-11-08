@@ -1,21 +1,21 @@
 # study churn signals
-**Author:** Onyx Hale  
+**Author:** Rune Okafor  
 **Department:** Research  
 **Project:** BitMiner  
-**Produced:** D865 15:35  
+**Produced:** D832 00:45  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Research deliverable for study churn signals, produced by Onyx Hale on persona credits.
+Research deliverable for study churn signals, produced by Rune Okafor on persona credits.
 
 ## Deliverable
 ```
 # study churn signals
-Author: Onyx Hale (Research, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Rune Okafor (Research, Gemini 3.7 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
 Working style applied: pragmatic shipper.
 ## Brief
-study churn signals. Delivered on persona credits from Onyx Hale's own allowance.
+study churn signals. Delivered on persona credits from Rune Okafor's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ study churn signals. Delivered on persona credits from Onyx Hale's own allowance
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Onyx Hale. Hand to the Research lead for sign-off, then save to the project work-assets folder.
+Reviewed by Rune Okafor. Hand to the Research lead for sign-off, then save to the project work-assets folder.
 ```
