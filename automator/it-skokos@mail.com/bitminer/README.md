@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Reyes | D833 00:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| evaluate model routing costs | Research | Rune Okafor | D833 05:45 | `work-assets/research/evaluate-model-routing-costs.md` |
