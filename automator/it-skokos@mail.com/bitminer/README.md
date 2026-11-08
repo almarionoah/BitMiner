@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut container image size | DevOps | Quill Cross | D836 03:10 | `work-assets/devops/cut-container-image-size.md` |
+| build component tokens | Design | Ash Hale | D836 04:25 | `work-assets/design/build-component-tokens.md` |
