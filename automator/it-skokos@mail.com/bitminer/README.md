@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Jax Adeyemi | D836 00:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| prototype embeddings dedupe | Research | Onyx Fontaine | D836 01:55 | `work-assets/research/prototype-embeddings-dedupe.md` |
