@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| benchmark vector store options | Research | Lyra Van Dyk | D828 22:00 | `work-assets/research/benchmark-vector-store-options.md` |
+| prototype embeddings dedupe | Research | Jax Ito | D828 23:20 | `work-assets/research/prototype-embeddings-dedupe.md` |
