@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Sable Nkosi | D840 11:05 | `work-assets/design/build-component-tokens.md` |
+| add retry queue to job runner | Engineering | Rune Okafor | D840 12:20 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
