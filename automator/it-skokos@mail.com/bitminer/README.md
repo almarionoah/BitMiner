@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Nova Marlow | D832 05:10 | `work-assets/design/accessibility-pass.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D833 00:50 | `work-assets/engineering/cache-hot-query-path.md` |
