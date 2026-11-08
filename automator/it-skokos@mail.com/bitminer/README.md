@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| benchmark vector store options | Research | Sable Okafor | D835 22:20 | `work-assets/research/benchmark-vector-store-options.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D835 23:30 | `work-assets/engineering/cache-hot-query-path.md` |
