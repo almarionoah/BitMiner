@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Mint Reyes | D841 12:25 | `work-assets/engineering/refactor-auth-service.md` |
+| study churn signals | Research | Sable Okafor | D841 13:35 | `work-assets/research/study-churn-signals.md` |
