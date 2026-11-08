@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Nova Marlow | D857 04:50 | `work-assets/engineering/cache-hot-query-path.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D858 00:05 | `work-assets/engineering/refactor-auth-service.md` |
