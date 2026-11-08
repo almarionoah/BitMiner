@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Lyra Van Dyk | D838 19:40 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| autoscale worker pool | DevOps | Zed Bishop | D838 22:15 | `work-assets/devops/autoscale-worker-pool.md` |
