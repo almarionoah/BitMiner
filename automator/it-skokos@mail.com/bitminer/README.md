@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Rune Nkosi | D830 04:45 | `work-assets/engineering/split-monolith-module.md` |
+| accessibility pass | Design | Sable Nkosi | D830 06:00 | `work-assets/design/accessibility-pass.md` |
