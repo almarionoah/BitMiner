@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Nova Fontaine | D861 05:15 | `work-assets/design/simplify-dashboard-density.md` |
+| add retry queue to job runner | Engineering | Rune Van Dyk | D861 08:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
