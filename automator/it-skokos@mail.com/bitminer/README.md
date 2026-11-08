@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Mint Reyes | D839 06:00 | `work-assets/engineering/split-monolith-module.md` |
+| refactor auth service | Engineering | Mint Reyes | D839 07:20 | `work-assets/engineering/refactor-auth-service.md` |
