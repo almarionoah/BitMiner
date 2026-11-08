@@ -1,21 +1,21 @@
 # mobile nav overhaul
-**Author:** Pixel Nkosi  
+**Author:** Sable Nkosi  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D836 09:35  
+**Produced:** D837 03:40  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for mobile nav overhaul, produced by Pixel Nkosi on persona credits.
+Design deliverable for mobile nav overhaul, produced by Sable Nkosi on persona credits.
 
 ## Deliverable
 ```
 # mobile nav overhaul
-Author: Pixel Nkosi (Design, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Sable Nkosi (Design, Gemini 3.5 Flash-Lite) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: obsessive refactorer.
+Working style applied: data purist.
 ## Brief
-mobile nav overhaul. Delivered on persona credits from Pixel Nkosi's own allowance.
+mobile nav overhaul. Delivered on persona credits from Sable Nkosi's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ mobile nav overhaul. Delivered on persona credits from Pixel Nkosi's own allowan
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Pixel Nkosi. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Sable Nkosi. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
