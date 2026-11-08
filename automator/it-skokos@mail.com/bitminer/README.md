@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Rune Okafor | D836 19:40 | `work-assets/research/survey-competitor-release-notes.md` |
+| study churn signals | Research | Rune Bishop | D836 20:55 | `work-assets/research/study-churn-signals.md` |
