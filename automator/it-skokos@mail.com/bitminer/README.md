@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| spin up comparison landing page | Marketing | Pixel Van Dyk | D825 02:35 | `work-assets/marketing/spin-up-comparison-landing-page.md` |
+| split monolith module | Engineering | Kaelen Thorne | D827 07:45 | `work-assets/engineering/split-monolith-module.md` |
