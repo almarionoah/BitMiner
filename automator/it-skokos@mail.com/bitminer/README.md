@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| Use the following updated uploaded resource document to apply changes to the existing application. Do not start from scr | Engineering | Lyra Van Dyk | D827 23:40 | `work-assets/engineering/use-the-following-updated-uploaded-resource-docu.md` |
+| migrate to typed API client | Engineering | Kaelen Thorne | D828 14:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
