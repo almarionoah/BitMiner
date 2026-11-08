@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Byte Reyes | D842 02:30 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| migrate to typed API client | Engineering | Nova Marlow | D842 03:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
