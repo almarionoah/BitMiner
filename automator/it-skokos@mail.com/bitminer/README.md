@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Mint Hale | D828 06:35 | `work-assets/design/mobile-nav-overhaul.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D828 23:20 | `work-assets/engineering/refactor-auth-service.md` |
