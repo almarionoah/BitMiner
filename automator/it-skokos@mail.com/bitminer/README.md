@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Reyes | D839 12:25 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| split monolith module | Engineering | Jax Adeyemi | D839 13:35 | `work-assets/engineering/split-monolith-module.md` |
