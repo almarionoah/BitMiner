@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| benchmark vector store options | Research | Lyra Van Dyk | D831 18:20 | `work-assets/research/benchmark-vector-store-options.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D831 19:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
