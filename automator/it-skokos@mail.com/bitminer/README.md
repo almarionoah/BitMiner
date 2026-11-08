@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Torq Hale | D861 00:10 | `work-assets/design/accessibility-pass.md` |
+| simplify dashboard density | Design | Nova Fontaine | D861 02:45 | `work-assets/design/simplify-dashboard-density.md` |
