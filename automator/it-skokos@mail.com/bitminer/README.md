@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| accessibility pass | Design | Nova Fontaine | D829 00:30 | `work-assets/design/accessibility-pass.md` |
+| cut container image size | DevOps | Zed Adeyemi | D829 03:05 | `work-assets/devops/cut-container-image-size.md` |
