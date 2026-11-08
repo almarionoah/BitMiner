@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Torq Cross | D838 04:20 | `work-assets/research/survey-competitor-release-notes.md` |
+| add blue/green deploy | DevOps | Cipher Bishop | D838 05:30 | `work-assets/devops/add-blue-green-deploy.md` |
