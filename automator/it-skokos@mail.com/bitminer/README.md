@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Iris Reyes | D831 22:20 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| benchmark vector store options | Research | Torq Cross | D831 23:30 | `work-assets/research/benchmark-vector-store-options.md` |
