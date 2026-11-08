@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Torq Hale | D836 16:20 | `work-assets/design/mobile-nav-overhaul.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D836 18:50 | `work-assets/engineering/migrate-to-typed-api-client.md` |
