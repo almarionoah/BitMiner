@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Rune Okafor | D836 08:20 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| mobile nav overhaul | Design | Pixel Nkosi | D836 09:35 | `work-assets/design/mobile-nav-overhaul.md` |
