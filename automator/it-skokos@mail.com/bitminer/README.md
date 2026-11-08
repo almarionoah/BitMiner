@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Kaelen Thorne | D828 15:35 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| wire log tracing | DevOps | Quill Cross | D828 16:45 | `work-assets/devops/wire-log-tracing.md` |
