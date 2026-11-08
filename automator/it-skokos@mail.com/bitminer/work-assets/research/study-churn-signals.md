@@ -1,21 +1,21 @@
 # study churn signals
-**Author:** Lyra Van Dyk  
+**Author:** Sable Okafor  
 **Department:** Research  
 **Project:** BitMiner  
-**Produced:** D839 14:45  
+**Produced:** D839 23:25  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Research deliverable for study churn signals, produced by Lyra Van Dyk on persona credits.
+Research deliverable for study churn signals, produced by Sable Okafor on persona credits.
 
 ## Deliverable
 ```
 # study churn signals
-Author: Lyra Van Dyk (Research, GPT-4o) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Sable Okafor (Research, GPT-5) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: docs evangelist.
+Working style applied: pragmatic shipper.
 ## Brief
-study churn signals. Delivered on persona credits from Lyra Van Dyk's own allowance.
+study churn signals. Delivered on persona credits from Sable Okafor's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ study churn signals. Delivered on persona credits from Lyra Van Dyk's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Lyra Van Dyk. Hand to the Research lead for sign-off, then save to the project work-assets folder.
+Reviewed by Sable Okafor. Hand to the Research lead for sign-off, then save to the project work-assets folder.
 ```
