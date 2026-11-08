@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Mint Reyes | D840 17:20 | `work-assets/engineering/split-monolith-module.md` |
+| split monolith module | Engineering | Pixel Hale | D840 18:30 | `work-assets/engineering/split-monolith-module.md` |
