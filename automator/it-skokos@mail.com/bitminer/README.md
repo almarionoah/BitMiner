@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Byte Reyes | D828 05:20 | `work-assets/engineering/refactor-auth-service.md` |
+| mobile nav overhaul | Design | Mint Hale | D828 06:35 | `work-assets/design/mobile-nav-overhaul.md` |
