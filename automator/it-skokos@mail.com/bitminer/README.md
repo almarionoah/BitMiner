@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Rune Okafor | D833 13:40 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| cache hot query path | Engineering | Torq Hale | D833 14:55 | `work-assets/engineering/cache-hot-query-path.md` |
