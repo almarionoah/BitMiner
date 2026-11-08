@@ -1,21 +1,21 @@
 # cut container image size
-**Author:** Zed Adeyemi  
+**Author:** Zed Bishop  
 **Department:** DevOps  
 **Project:** BitMiner  
-**Produced:** D829 03:05  
+**Produced:** D838 17:10  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-DevOps deliverable for cut container image size, produced by Zed Adeyemi on persona credits.
+DevOps deliverable for cut container image size, produced by Zed Bishop on persona credits.
 
 ## Deliverable
 ```
 # cut container image size
-Author: Zed Adeyemi (DevOps, Gemini 3.6 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Zed Bishop (DevOps, Gemini 3.1 Deep Think) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: pragmatic shipper.
+Working style applied: latency hunter.
 ## Brief
-cut container image size. Delivered on persona credits from Zed Adeyemi's own allowance.
+cut container image size. Delivered on persona credits from Zed Bishop's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ cut container image size. Delivered on persona credits from Zed Adeyemi's own al
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Zed Adeyemi. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
+Reviewed by Zed Bishop. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
 ```
