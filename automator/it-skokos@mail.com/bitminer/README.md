@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Nova Marlow | D840 02:25 | `work-assets/engineering/cache-hot-query-path.md` |
+| add retry queue to job runner | Engineering | Rune Van Dyk | D840 03:35 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
