@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Jax Adeyemi | D837 04:55 | `work-assets/engineering/split-monolith-module.md` |
+| evaluate model routing costs | Research | Onyx Fontaine | D837 06:05 | `work-assets/research/evaluate-model-routing-costs.md` |
