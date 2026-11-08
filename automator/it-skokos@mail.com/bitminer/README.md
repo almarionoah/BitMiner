@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Jax Adeyemi | D838 00:30 | `work-assets/engineering/refactor-auth-service.md` |
+| migrate to typed API client | Engineering | Torq Hale | D838 03:10 | `work-assets/engineering/migrate-to-typed-api-client.md` |
