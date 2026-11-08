@@ -1,21 +1,21 @@
 # evaluate model routing costs
-**Author:** Onyx Fontaine  
+**Author:** Sable Okafor  
 **Department:** Research  
 **Project:** BitMiner  
-**Produced:** D837 06:05  
+**Produced:** D837 20:45  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Research deliverable for evaluate model routing costs, produced by Onyx Fontaine on persona credits.
+Research deliverable for evaluate model routing costs, produced by Sable Okafor on persona credits.
 
 ## Deliverable
 ```
 # evaluate model routing costs
-Author: Onyx Fontaine (Research, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Sable Okafor (Research, GPT-5) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: cost cutter.
+Working style applied: pragmatic shipper.
 ## Brief
-evaluate model routing costs. Delivered on persona credits from Onyx Fontaine's own allowance.
+evaluate model routing costs. Delivered on persona credits from Sable Okafor's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ evaluate model routing costs. Delivered on persona credits from Onyx Fontaine's 
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Onyx Fontaine. Hand to the Research lead for sign-off, then save to the project work-assets folder.
+Reviewed by Sable Okafor. Hand to the Research lead for sign-off, then save to the project work-assets folder.
 ```
