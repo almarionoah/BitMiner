@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| benchmark vector store options | Research | Rune Okafor | D831 15:45 | `work-assets/research/benchmark-vector-store-options.md` |
+| refactor auth service | Engineering | Mint Reyes | D831 17:05 | `work-assets/engineering/refactor-auth-service.md` |
