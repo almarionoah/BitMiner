@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| draft launch announcement | Marketing | Byte Hale | D827 14:25 | `work-assets/marketing/draft-launch-announcement.md` |
+| wire log tracing | DevOps | Echo Hale | D828 04:35 | `work-assets/devops/wire-log-tracing.md` |
