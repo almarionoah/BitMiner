@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Byte Bishop | D828 19:10 | `work-assets/engineering/refactor-auth-service.md` |
+| prototype embeddings dedupe | Research | Sable Adeyemi | D828 20:35 | `work-assets/research/prototype-embeddings-dedupe.md` |
