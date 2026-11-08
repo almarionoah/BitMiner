@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Onyx Van Dyk | D837 05:00 | `work-assets/engineering/refactor-auth-service.md` |
+| build component tokens | Design | Torq Hale | D837 06:15 | `work-assets/design/build-component-tokens.md` |
