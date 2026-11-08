@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Zed Bishop | D840 16:25 | `work-assets/devops/autoscale-worker-pool.md` |
+| mobile nav overhaul | Design | Nova Marlow | D840 17:40 | `work-assets/design/mobile-nav-overhaul.md` |
