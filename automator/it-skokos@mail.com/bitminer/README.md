@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| rework onboarding flow | Design | Ash Cross | D838 18:25 | `work-assets/design/rework-onboarding-flow.md` |
+| add retry queue to job runner | Engineering | Lyra Van Dyk | D838 19:40 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
