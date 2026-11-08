@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Torq Hale | D840 11:00 | `work-assets/design/build-component-tokens.md` |
+| cache hot query path | Engineering | Prism Ito | D840 12:10 | `work-assets/engineering/cache-hot-query-path.md` |
