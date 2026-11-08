@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Ash Hale | D836 04:25 | `work-assets/design/build-component-tokens.md` |
+| survey competitor release notes | Research | Rune Bishop | D836 07:00 | `work-assets/research/survey-competitor-release-notes.md` |
