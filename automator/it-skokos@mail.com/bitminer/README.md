@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| evaluate model routing costs | Research | Onyx Fontaine | D837 06:05 | `work-assets/research/evaluate-model-routing-costs.md` |
+| split monolith module | Engineering | Iris Marlow | D837 07:25 | `work-assets/engineering/split-monolith-module.md` |
