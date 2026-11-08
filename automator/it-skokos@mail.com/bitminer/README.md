@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Rune Okafor | D835 06:10 | `work-assets/research/study-churn-signals.md` |
+| add blue/green deploy | DevOps | Quill Cross | D835 07:25 | `work-assets/devops/add-blue-green-deploy.md` |
