@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Byte Reyes | D839 20:05 | `work-assets/engineering/refactor-auth-service.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D839 22:35 | `work-assets/engineering/split-monolith-module.md` |
