@@ -1,21 +1,21 @@
 # autoscale worker pool
-**Author:** Quill Cross  
+**Author:** Volt Marlow  
 **Department:** DevOps  
 **Project:** BitMiner  
-**Produced:** D832 22:00  
+**Produced:** D833 22:35  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-DevOps deliverable for autoscale worker pool, produced by Quill Cross on persona credits.
+DevOps deliverable for autoscale worker pool, produced by Volt Marlow on persona credits.
 
 ## Deliverable
 ```
 # autoscale worker pool
-Author: Quill Cross (DevOps, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Volt Marlow (DevOps, GPT-5.5) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: latency hunter.
+Working style applied: data purist.
 ## Brief
-autoscale worker pool. Delivered on persona credits from Quill Cross's own allowance.
+autoscale worker pool. Delivered on persona credits from Volt Marlow's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ autoscale worker pool. Delivered on persona credits from Quill Cross's own allow
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Quill Cross. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
+Reviewed by Volt Marlow. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
 ```
