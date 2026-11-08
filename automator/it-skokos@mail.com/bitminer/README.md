@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Prism Ito | D827 22:40 | `work-assets/engineering/cache-hot-query-path.md` |
+| refactor auth service | Engineering | Byte Reyes | D828 05:20 | `work-assets/engineering/refactor-auth-service.md` |
