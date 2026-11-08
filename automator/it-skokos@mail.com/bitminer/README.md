@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Jax Adeyemi | D838 13:30 | `work-assets/engineering/refactor-auth-service.md` |
+| simplify dashboard density | Design | Vex Ito | D838 14:45 | `work-assets/design/simplify-dashboard-density.md` |
