@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| survey competitor release notes | Research | Sable Okafor | D831 20:55 | `work-assets/research/survey-competitor-release-notes.md` |
+| add retry queue to job runner | Engineering | Iris Reyes | D831 22:20 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
