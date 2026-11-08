@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Torq Hale | D839 23:50 | `work-assets/design/build-component-tokens.md` |
+| add retry queue to job runner | Engineering | Mint Reyes | D840 01:05 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
