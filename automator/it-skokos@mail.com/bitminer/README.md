@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Iris Marlow | D836 14:15 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| survey competitor release notes | Research | Rune Okafor | D836 19:40 | `work-assets/research/survey-competitor-release-notes.md` |
