@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Nova Marlow | D842 03:40 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| add retry queue to job runner | Engineering | Byte Marlow | D842 05:00 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
