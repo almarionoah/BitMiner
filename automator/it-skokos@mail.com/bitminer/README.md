@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Torq Hale | D838 12:55 | `work-assets/engineering/split-monolith-module.md` |
+| cache hot query path | Engineering | Mint Reyes | D838 14:30 | `work-assets/engineering/cache-hot-query-path.md` |
