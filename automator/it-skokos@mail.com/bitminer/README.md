@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Echo Hale | D828 04:35 | `work-assets/devops/wire-log-tracing.md` |
+| Use the existing application and ensure conversion processing uses each generated base64 blab as explained in the upload | Engineering | Lyra Van Dyk | D823 03:15 | `work-assets/engineering/use-the-existing-application-and-ensure-conversi.md` |
