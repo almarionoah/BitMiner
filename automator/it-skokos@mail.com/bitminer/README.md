@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Volt Marlow | D832 04:25 | `work-assets/engineering/cache-hot-query-path.md` |
+| study churn signals | Research | Rune Bishop | D832 05:45 | `work-assets/research/study-churn-signals.md` |
