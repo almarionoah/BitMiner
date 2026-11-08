@@ -1,21 +1,21 @@
 # build component tokens
-**Author:** Fig Okafor  
+**Author:** Ash Hale  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D834 08:05  
+**Produced:** D836 04:25  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for build component tokens, produced by Fig Okafor on persona credits.
+Design deliverable for build component tokens, produced by Ash Hale on persona credits.
 
 ## Deliverable
 ```
 # build component tokens
-Author: Fig Okafor (Design, o4-mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Ash Hale (Design, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: cost cutter.
+Working style applied: docs evangelist.
 ## Brief
-build component tokens. Delivered on persona credits from Fig Okafor's own allowance.
+build component tokens. Delivered on persona credits from Ash Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ build component tokens. Delivered on persona credits from Fig Okafor's own allow
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Fig Okafor. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Ash Hale. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
