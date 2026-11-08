@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Jax Adeyemi | D838 22:05 | `work-assets/engineering/split-monolith-module.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D839 00:35 | `work-assets/engineering/split-monolith-module.md` |
