@@ -1,21 +1,21 @@
 # refactor auth service
-**Author:** Pixel Hale  
+**Author:** Iris Marlow  
 **Department:** Engineering  
 **Project:** BitMiner  
-**Produced:** D832 11:30  
+**Produced:** D833 09:40  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Engineering deliverable for refactor auth service, produced by Pixel Hale on persona credits.
+Engineering deliverable for refactor auth service, produced by Iris Marlow on persona credits.
 
 ## Deliverable
 ```
 # refactor auth service
-Author: Pixel Hale (Engineering, Gemini 3.5 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Iris Marlow (Engineering, o4-mini) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: edge-case archaeologist.
+Working style applied: cost cutter.
 ## Brief
-refactor auth service. Delivered on persona credits from Pixel Hale's own allowance.
+refactor auth service. Delivered on persona credits from Iris Marlow's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ refactor auth service. Delivered on persona credits from Pixel Hale's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Pixel Hale. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
+Reviewed by Iris Marlow. Hand to the Engineering lead for sign-off, then save to the project work-assets folder.
 ```
