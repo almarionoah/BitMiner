@@ -1,21 +1,21 @@
 # accessibility pass
-**Author:** Nova Fontaine  
+**Author:** Nova Marlow  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D830 04:55  
+**Produced:** D832 05:10  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for accessibility pass, produced by Nova Fontaine on persona credits.
+Design deliverable for accessibility pass, produced by Nova Marlow on persona credits.
 
 ## Deliverable
 ```
 # accessibility pass
-Author: Nova Fontaine (Design, Gemini 3.1 Deep Think) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Nova Marlow (Design, GPT-5.6) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: security paranoid.
+Working style applied: UX romantic.
 ## Brief
-accessibility pass. Delivered on persona credits from Nova Fontaine's own allowance.
+accessibility pass. Delivered on persona credits from Nova Marlow's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ accessibility pass. Delivered on persona credits from Nova Fontaine's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Nova Fontaine. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Nova Marlow. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
