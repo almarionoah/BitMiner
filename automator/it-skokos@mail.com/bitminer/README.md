@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Onyx Van Dyk | D831 14:30 | `work-assets/devops/add-blue-green-deploy.md` |
+| benchmark vector store options | Research | Rune Okafor | D831 15:45 | `work-assets/research/benchmark-vector-store-options.md` |
