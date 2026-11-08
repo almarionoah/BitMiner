@@ -1,21 +1,21 @@
 # benchmark vector store options
-**Author:** Lyra Van Dyk  
+**Author:** Torq Cross  
 **Department:** Research  
 **Project:** BitMiner  
-**Produced:** D831 18:20  
+**Produced:** D831 23:30  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Research deliverable for benchmark vector store options, produced by Lyra Van Dyk on persona credits.
+Research deliverable for benchmark vector store options, produced by Torq Cross on persona credits.
 
 ## Deliverable
 ```
 # benchmark vector store options
-Author: Lyra Van Dyk (Research, GPT-4o) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Torq Cross (Research, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: docs evangelist.
+Working style applied: obsessive refactorer.
 ## Brief
-benchmark vector store options. Delivered on persona credits from Lyra Van Dyk's own allowance.
+benchmark vector store options. Delivered on persona credits from Torq Cross's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ benchmark vector store options. Delivered on persona credits from Lyra Van Dyk's
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Lyra Van Dyk. Hand to the Research lead for sign-off, then save to the project work-assets folder.
+Reviewed by Torq Cross. Hand to the Research lead for sign-off, then save to the project work-assets folder.
 ```
