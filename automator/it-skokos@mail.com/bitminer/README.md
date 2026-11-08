@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| wire log tracing | DevOps | Quill Cross | D832 12:45 | `work-assets/devops/wire-log-tracing.md` |
+| prototype embeddings dedupe | Research | Onyx Fontaine | D832 19:35 | `work-assets/research/prototype-embeddings-dedupe.md` |
