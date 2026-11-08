@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Lyra Van Dyk | D835 17:05 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| rework onboarding flow | Design | Fig Okafor | D835 18:25 | `work-assets/design/rework-onboarding-flow.md` |
