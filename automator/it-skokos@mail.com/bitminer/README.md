@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| prototype embeddings dedupe | Research | Sable Adeyemi | D832 02:00 | `work-assets/research/prototype-embeddings-dedupe.md` |
+| survey competitor release notes | Research | Sable Okafor | D832 03:10 | `work-assets/research/survey-competitor-release-notes.md` |
