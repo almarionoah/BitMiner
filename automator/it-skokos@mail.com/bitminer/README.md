@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Nova Fontaine | D834 09:35 | `work-assets/design/simplify-dashboard-density.md` |
+| mobile nav overhaul | Design | Gemini-V2 Blitz | D834 12:00 | `work-assets/design/mobile-nav-overhaul.md` |
