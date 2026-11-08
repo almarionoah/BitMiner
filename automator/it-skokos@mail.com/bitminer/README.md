@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Lyra Van Dyk | D840 14:50 | `work-assets/engineering/refactor-auth-service.md` |
+| refactor auth service | Engineering | Pixel Hale | D840 16:05 | `work-assets/engineering/refactor-auth-service.md` |
