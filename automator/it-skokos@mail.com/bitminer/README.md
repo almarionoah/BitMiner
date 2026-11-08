@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Rune Nkosi | D832 20:45 | `work-assets/engineering/cache-hot-query-path.md` |
+| autoscale worker pool | DevOps | Quill Cross | D832 22:00 | `work-assets/devops/autoscale-worker-pool.md` |
