@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Rune Van Dyk | D861 08:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| rework onboarding flow | Design | Onyx Bishop | D861 09:55 | `work-assets/design/rework-onboarding-flow.md` |
