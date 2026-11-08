@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Mint Reyes | D829 03:30 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| cut container image size | DevOps | Quill Cross | D829 04:50 | `work-assets/devops/cut-container-image-size.md` |
