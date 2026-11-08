@@ -1,21 +1,21 @@
 # harden CI pipeline
-**Author:** Juno Fontaine  
+**Author:** Echo Hale  
 **Department:** DevOps  
 **Project:** BitMiner  
-**Produced:** D821 12:50  
+**Produced:** D827 13:05  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-DevOps deliverable for harden CI pipeline, produced by Juno Fontaine on persona credits.
+DevOps deliverable for harden CI pipeline, produced by Echo Hale on persona credits.
 
 ## Deliverable
 ```
 # harden CI pipeline
-Author: Juno Fontaine (DevOps, o3) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Echo Hale (DevOps, Gemini 3.7 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: chaos tester.
+Working style applied: latency hunter.
 ## Brief
-harden CI pipeline. Delivered on persona credits from Juno Fontaine's own allowance.
+harden CI pipeline. Delivered on persona credits from Echo Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ harden CI pipeline. Delivered on persona credits from Juno Fontaine's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Juno Fontaine. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
+Reviewed by Echo Hale. Hand to the DevOps lead for sign-off, then save to the project work-assets folder.
 ```
