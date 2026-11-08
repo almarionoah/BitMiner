@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| rework onboarding flow | Design | Fig Okafor | D840 23:20 | `work-assets/design/rework-onboarding-flow.md` |
+| split monolith module | Engineering | Lyra Van Dyk | D841 00:35 | `work-assets/engineering/split-monolith-module.md` |
