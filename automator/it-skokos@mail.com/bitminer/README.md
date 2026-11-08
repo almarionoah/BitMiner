@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Mint Reyes | D833 18:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| simplify dashboard density | Design | Nova Fontaine | D833 19:45 | `work-assets/design/simplify-dashboard-density.md` |
