@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| study churn signals | Research | Rune Bishop | D836 20:55 | `work-assets/research/study-churn-signals.md` |
+| migrate to typed API client | Engineering | Iris Marlow | D836 22:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
