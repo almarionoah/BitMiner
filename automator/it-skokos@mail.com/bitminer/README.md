@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| simplify dashboard density | Design | Fig Okafor | D835 15:55 | `work-assets/design/simplify-dashboard-density.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D835 17:05 | `work-assets/engineering/migrate-to-typed-api-client.md` |
