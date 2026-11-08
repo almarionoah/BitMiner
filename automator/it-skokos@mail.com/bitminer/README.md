@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add retry queue to job runner | Engineering | Byte Marlow | D830 03:45 | `work-assets/engineering/add-retry-queue-to-job-runner.md` |
+| accessibility pass | Design | Nova Fontaine | D830 04:55 | `work-assets/design/accessibility-pass.md` |
