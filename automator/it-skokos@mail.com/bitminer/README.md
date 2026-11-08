@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Nova Marlow | D840 17:40 | `work-assets/design/mobile-nav-overhaul.md` |
+| migrate to typed API client | Engineering | Fig Okafor | D840 19:20 | `work-assets/engineering/migrate-to-typed-api-client.md` |
