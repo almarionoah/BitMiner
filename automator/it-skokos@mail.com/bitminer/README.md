@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| migrate to typed API client | Engineering | Jax Adeyemi | D837 01:15 | `work-assets/engineering/migrate-to-typed-api-client.md` |
+| migrate to typed API client | Engineering | Byte Bishop | D837 02:25 | `work-assets/engineering/migrate-to-typed-api-client.md` |
