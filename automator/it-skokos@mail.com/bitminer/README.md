@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut container image size | DevOps | Quill Cross | D840 13:35 | `work-assets/devops/cut-container-image-size.md` |
+| refactor auth service | Engineering | Lyra Van Dyk | D840 14:50 | `work-assets/engineering/refactor-auth-service.md` |
