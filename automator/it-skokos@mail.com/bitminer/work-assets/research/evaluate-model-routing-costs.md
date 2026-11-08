@@ -1,21 +1,21 @@
 # evaluate model routing costs
-**Author:** Rune Okafor  
+**Author:** Rune Bishop  
 **Department:** Research  
 **Project:** BitMiner  
-**Produced:** D833 07:10  
+**Produced:** D833 12:25  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Research deliverable for evaluate model routing costs, produced by Rune Okafor on persona credits.
+Research deliverable for evaluate model routing costs, produced by Rune Bishop on persona credits.
 
 ## Deliverable
 ```
 # evaluate model routing costs
-Author: Rune Okafor (Research, Gemini 3.7 Flash) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Rune Bishop (Research, GPT-4o) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: pragmatic shipper.
+Working style applied: security paranoid.
 ## Brief
-evaluate model routing costs. Delivered on persona credits from Rune Okafor's own allowance.
+evaluate model routing costs. Delivered on persona credits from Rune Bishop's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ evaluate model routing costs. Delivered on persona credits from Rune Okafor's ow
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Rune Okafor. Hand to the Research lead for sign-off, then save to the project work-assets folder.
+Reviewed by Rune Bishop. Hand to the Research lead for sign-off, then save to the project work-assets folder.
 ```
