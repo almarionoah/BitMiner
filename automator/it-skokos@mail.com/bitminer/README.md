@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| add blue/green deploy | DevOps | Sable Marlow | D834 07:05 | `work-assets/devops/add-blue-green-deploy.md` |
+| accessibility pass | Design | Nyx Bishop | D834 08:20 | `work-assets/design/accessibility-pass.md` |
