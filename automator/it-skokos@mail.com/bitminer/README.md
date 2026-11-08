@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Quill Cross | D842 03:25 | `work-assets/devops/autoscale-worker-pool.md` |
+| wire log tracing | DevOps | Onyx Van Dyk | D842 04:45 | `work-assets/devops/wire-log-tracing.md` |
