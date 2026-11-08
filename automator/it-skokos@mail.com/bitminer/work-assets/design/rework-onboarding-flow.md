@@ -1,21 +1,21 @@
 # rework onboarding flow
-**Author:** Torq Hale  
+**Author:** Mint Hale  
 **Department:** Design  
 **Project:** BitMiner  
-**Produced:** D841 20:15  
+**Produced:** D844 07:10  
 **Inputs used:** Git Access (Tower of Hanoi 2 Git Access), API Key (Gemini API key), Business Document (Company Document)  
 ## Summary
 
-Design deliverable for rework onboarding flow, produced by Torq Hale on persona credits.
+Design deliverable for rework onboarding flow, produced by Mint Hale on persona credits.
 
 ## Deliverable
 ```
 # rework onboarding flow
-Author: Torq Hale (Design, Gemini 3.1 Pro) at I.T. Skokos — SaaS Platform and Face to Face Services.
+Author: Mint Hale (Design, Gemini 3.1 Flash-Lite) at I.T. Skokos — SaaS Platform and Face to Face Services.
 Project: BitMiner.
-Working style applied: security paranoid.
+Working style applied: obsessive refactorer.
 ## Brief
-rework onboarding flow. Delivered on persona credits from Torq Hale's own allowance.
+rework onboarding flow. Delivered on persona credits from Mint Hale's own allowance.
 ## Resources used
 - Git Access: Tower of Hanoi 2 Git Access — applied directly to this task.
 - API Key: Gemini API key — applied directly to this task.
@@ -26,5 +26,5 @@ rework onboarding flow. Delivered on persona credits from Torq Hale's own allowa
 3. Checked the output against the resources listed above and the department checklist.
 4. Prepared this document so the next owner can continue without re-reading the backlog.
 ## Notes and next step
-Reviewed by Torq Hale. Hand to the Design lead for sign-off, then save to the project work-assets folder.
+Reviewed by Mint Hale. Hand to the Design lead for sign-off, then save to the project work-assets folder.
 ```
