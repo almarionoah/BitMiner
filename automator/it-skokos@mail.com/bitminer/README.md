@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| split monolith module | Engineering | Mint Reyes | D842 12:35 | `work-assets/engineering/split-monolith-module.md` |
+| simplify dashboard density | Design | Nova Marlow | D842 14:40 | `work-assets/design/simplify-dashboard-density.md` |
