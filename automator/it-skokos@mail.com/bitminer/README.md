@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Nova Fontaine | D860 22:40 | `work-assets/design/build-component-tokens.md` |
+| accessibility pass | Design | Torq Hale | D861 00:10 | `work-assets/design/accessibility-pass.md` |
