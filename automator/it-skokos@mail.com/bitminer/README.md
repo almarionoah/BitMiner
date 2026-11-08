@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| autoscale worker pool | DevOps | Volt Marlow | D833 22:35 | `work-assets/devops/autoscale-worker-pool.md` |
+| migrate to typed API client | Engineering | Lyra Van Dyk | D833 23:50 | `work-assets/engineering/migrate-to-typed-api-client.md` |
