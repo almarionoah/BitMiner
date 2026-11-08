@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cut container image size | DevOps | Zed Adeyemi | D829 03:05 | `work-assets/devops/cut-container-image-size.md` |
+| cache hot query path | Engineering | Lyra Van Dyk | D829 14:25 | `work-assets/engineering/cache-hot-query-path.md` |
