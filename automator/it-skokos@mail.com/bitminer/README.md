@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Torq Hale | D833 14:55 | `work-assets/engineering/cache-hot-query-path.md` |
+| survey competitor release notes | Research | Rune Fontaine | D833 16:10 | `work-assets/research/survey-competitor-release-notes.md` |
