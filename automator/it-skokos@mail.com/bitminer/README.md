@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| rework onboarding flow | Design | Torq Hale | D837 13:40 | `work-assets/design/rework-onboarding-flow.md` |
+| refactor auth service | Engineering | Rune Van Dyk | D837 14:55 | `work-assets/engineering/refactor-auth-service.md` |
