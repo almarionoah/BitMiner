@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Lyra Van Dyk | D858 00:05 | `work-assets/engineering/refactor-auth-service.md` |
+| simplify dashboard density | Design | Nova Fontaine | D858 01:20 | `work-assets/design/simplify-dashboard-density.md` |
