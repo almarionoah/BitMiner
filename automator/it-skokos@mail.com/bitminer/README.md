@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Iris Marlow | D834 12:20 | `work-assets/engineering/cache-hot-query-path.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D834 14:55 | `work-assets/engineering/migrate-to-typed-api-client.md` |
