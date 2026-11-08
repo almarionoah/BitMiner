@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| refactor auth service | Engineering | Lyra Van Dyk | D830 07:15 | `work-assets/engineering/refactor-auth-service.md` |
+| add blue/green deploy | DevOps | Onyx Van Dyk | D831 14:30 | `work-assets/devops/add-blue-green-deploy.md` |
