@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| cache hot query path | Engineering | Byte Reyes | D835 21:40 | `work-assets/engineering/cache-hot-query-path.md` |
+| migrate to typed API client | Engineering | Rune Van Dyk | D835 22:55 | `work-assets/engineering/migrate-to-typed-api-client.md` |
