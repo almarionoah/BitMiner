@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| mobile nav overhaul | Design | Mint Hale | D833 02:35 | `work-assets/design/mobile-nav-overhaul.md` |
+| migrate to typed API client | Engineering | Mint Reyes | D833 18:30 | `work-assets/engineering/migrate-to-typed-api-client.md` |
