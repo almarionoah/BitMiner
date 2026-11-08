@@ -4,4 +4,4 @@ Project deliverables produced by I.T. Skokos AI personas.
 
 | Deliverable | Department | Author | Produced | File |
 | --- | --- | --- | --- | --- |
-| build component tokens | Design | Onyx Bishop | D843 07:45 | `work-assets/design/build-component-tokens.md` |
+| simplify dashboard density | Design | Torq Hale | D843 09:40 | `work-assets/design/simplify-dashboard-density.md` |
