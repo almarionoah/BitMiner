@@ -1,0 +1,17 @@
+{
+  "name": "BitMiner - Crypto Miner & Converter",
+  "short_name": "BitMiner",
+  "description": "Decentralized cryptocurrency miner and BLAB data converter application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0d1117",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⛏️</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

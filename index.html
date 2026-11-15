@@ -3,10 +3,219 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BitMiner</title>
+    <meta name="theme-color" content="#0d1117" />
+    <meta name="description" content="BitMiner - High Performance Cryptocurrency Miner and Data Converter" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⛏️</text></svg>" />
+    <title>BitMiner | Crypto Mining & Conversion Hub</title>
+    <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
-    <div id="app">BitMiner</div>
+    <div id="app">
+      <!-- Top Header Navigation -->
+      <header class="app-header">
+        <div class="brand-cluster">
+          <div class="logo-gem">⛏️</div>
+          <div class="brand-meta">
+            <h1 class="brand-title">BitMiner<span class="version-tag">v2.4 PRO</span></h1>
+            <p class="brand-subtitle">Decentralized Proof-of-Identity Mining & Conversion</p>
+          </div>
+        </div>
+
+        <!-- Navigation Tabs -->
+        <nav class="tab-navigation" role="tablist">
+          <button id="tab-mine" class="nav-tab active" role="tab" aria-selected="true" aria-controls="view-mine">
+            <span class="tab-icon">⚡</span> Mine
+          </button>
+          <button id="tab-convert" class="nav-tab" role="tab" aria-selected="false" aria-controls="view-convert">
+            <span class="tab-icon">🔄</span> Convert
+          </button>
+        </nav>
+
+        <!-- PWA / Actions Bar -->
+        <div class="header-actions">
+          <button id="btn-pwa-install" class="action-btn-pwa hidden" aria-label="Install PWA App">
+            <span class="pwa-icon">📲</span> Install App
+          </button>
+          <div class="payout-badge">
+            <span class="badge-label">Converted Balance:</span>
+            <span id="header-balance" class="badge-value">$0.00 USD</span>
+          </div>
+        </div>
+      </header>
+
+      <!-- Main Content Container -->
+      <main class="main-content">
+        <!-- Global Live Stats Strip -->
+        <section class="stats-strip" aria-label="Global Performance Indicators">
+          <div class="stat-box">
+            <span class="stat-title">Active Hashrate</span>
+            <span id="stat-hashrate" class="stat-digit glow-cyan">0.00 MH/s</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-title">Mined BLABs</span>
+            <span id="stat-blabs-count" class="stat-digit glow-amber">0</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-title">Pending Conversion</span>
+            <span id="stat-pending-count" class="stat-digit glow-purple">0</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-title">Total Processed Value</span>
+            <span id="stat-converted-value" class="stat-digit glow-green">0.00000000 BTC</span>
+          </div>
+        </section>
+
+        <!-- Primary Views Wrapper -->
+        <div class="views-grid">
+          <!-- LEFT PANEL: Active View (Mine or Convert) -->
+          <div class="interactive-panel">
+            <!-- VIEW: MINE -->
+            <section id="view-mine" class="view-card active" role="tabpanel" aria-labelledby="tab-mine">
+              <div class="panel-header">
+                <h2 class="panel-title">Cryptocurrency BLAB Miner Engine</h2>
+                <span id="mining-status-pill" class="status-pill idle">ENGINE IDLE</span>
+              </div>
+              <p class="panel-desc">
+                The miner autonomously synthesizes valid randomized identity email addresses, encrypts them into Base64,
+                computes cryptographic key pairs, and combines them into valid proof-of-work <strong>BLAB</strong> packages.
+              </p>
+
+              <div class="controls-row">
+                <button id="btn-toggle-mining" class="btn-primary glow-button">
+                  <span class="btn-icon">▶</span> Start Mining Engine
+                </button>
+                <button id="btn-mine-single" class="btn-secondary">
+                  <span class="btn-icon">⛏️</span> Mine Single Block
+                </button>
+                <button id="btn-export-json" class="btn-secondary">
+                  <span class="btn-icon">💾</span> Export JSON Data
+                </button>
+              </div>
+
+              <div class="spec-box">
+                <div class="spec-item">
+                  <span class="spec-label">Engine Identity Seed:</span>
+                  <span id="mining-identity-preview" class="spec-value">auto-generated@bitminer.network</span>
+                </div>
+                <div class="spec-item">
+                  <span class="spec-label">Base64 Identity Cipher:</span>
+                  <span id="mining-b64-email-preview" class="spec-value font-mono">--</span>
+                </div>
+                <div class="spec-item">
+                  <span class="spec-label">Base64 Block Nonce Key:</span>
+                  <span id="mining-b64-key-preview" class="spec-value font-mono">--</span>
+                </div>
+                <div class="spec-item highlight">
+                  <span class="spec-label">Generated [blab] Payload:</span>
+                  <span id="mining-blab-preview" class="spec-value font-mono text-truncate">Awaiting generation cycle...</span>
+                </div>
+              </div>
+            </section>
+
+            <!-- VIEW: CONVERT -->
+            <section id="view-convert" class="view-card hidden" role="tabpanel" aria-labelledby="tab-convert">
+              <div class="panel-header">
+                <h2 class="panel-title">BLAB Data Conversion Protocol</h2>
+                <span class="status-pill active">ALGORITHM READY</span>
+              </div>
+              <p class="panel-desc">
+                Converts generated raw [blab] proofs into verified digital assets. Configure your miner identity email
+                and designated conversion amount multiplier per BLAB block.
+              </p>
+
+              <form id="conversion-form" class="conversion-form" onsubmit="return false;">
+                <div class="form-group">
+                  <label for="miner-email-input" class="form-label">
+                    Miner Identity Email <span class="token-var">[miner_identity_email]</span>
+                  </label>
+                  <input
+                    type="email"
+                    id="miner-email-input"
+                    class="form-input"
+                    placeholder="e.g. operator@bitminer-vault.io"
+                    value="lead.miner@bitminer-network.internal"
+                    required
+                  />
+                  <span class="form-hint">Used as cryptographic salt for validating decrypted BLAB ownership.</span>
+                </div>
+
+                <div class="form-group">
+                  <label for="amount-per-blab-input" class="form-label">
+                    Conversion Rate Amount per BLAB <span class="token-var">[app_user_selected_amount]</span>
+                  </label>
+                  <div class="input-affix-wrapper">
+                    <input
+                      type="number"
+                      id="amount-per-blab-input"
+                      class="form-input"
+                      min="0.01"
+                      step="0.01"
+                      value="25.50"
+                      required
+                    />
+                    <span class="input-affix">USD / BLAB</span>
+                  </div>
+                  <span class="form-hint">Multiplier applied to each singular base64 BLAB during transformation.</span>
+                </div>
+
+                <div class="auto-convert-toggle-row">
+                  <label class="switch-label" for="toggle-auto-convert">
+                    <input type="checkbox" id="toggle-auto-convert" />
+                    <span class="switch-slider"></span>
+                    <span class="switch-text">
+                      <strong>Auto-Convert Stream:</strong> Automatically process every incoming [blab] as it is mined
+                    </span>
+                  </label>
+                </div>
+
+                <div class="controls-row">
+                  <button type="button" id="btn-convert-all" class="btn-primary glow-button-purple">
+                    <span class="btn-icon">⚡</span> Process All Pending BLABs
+                  </button>
+                  <button type="button" id="btn-convert-single" class="btn-secondary">
+                    <span class="btn-icon">🧪</span> Process Next Single BLAB
+                  </button>
+                  <button type="button" id="btn-clear-blabs" class="btn-outline">
+                    <span class="btn-icon">🗑️</span> Reset Pool
+                  </button>
+                </div>
+              </form>
+            </section>
+          </div>
+
+          <!-- RIGHT PANEL: Live Feed Terminal -->
+          <div class="terminal-panel">
+            <div class="terminal-header">
+              <div class="terminal-dots">
+                <span class="dot red"></span>
+                <span class="dot yellow"></span>
+                <span class="dot green"></span>
+              </div>
+              <span class="terminal-title">LIVE FEED TERMINAL // BITMINER_CONSOLE_OUTPUT</span>
+              <div class="terminal-actions">
+                <button id="btn-clear-terminal" class="terminal-mini-btn" title="Clear Output">
+                  Clear
+                </button>
+              </div>
+            </div>
+            <div id="terminal-feed" class="terminal-body" role="log" aria-live="polite">
+              <!-- Terminal log entries appear here -->
+            </div>
+            <div class="terminal-footer">
+              <span class="feed-status-blip"></span>
+              <span class="feed-status-text">REALTIME SYNC ACTIVE — VERIFIED SHA256 / B64 CIPHER STREAM</span>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <footer class="app-footer">
+        <span>BitMiner Engineering System © 2025. Standard Implementation Blueprint.</span>
+        <span class="footer-sep">•</span>
+        <span>Linear Gradient Protocol Architecture</span>
+      </footer>
+    </div>
     <script type="module" src="/main.js"></script>
   </body>
 </html>
