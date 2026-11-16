@@ -6,6 +6,11 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "lucide-react": "^1.16.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
   "devDependencies": {
     "vite": "^5.0.0"
   }

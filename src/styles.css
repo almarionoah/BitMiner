@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-gradient: linear-gradient(135deg, #090d16 0%, #111c33 50%, #050b14 100%);
+  --card-gradient: linear-gradient(145deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.8) 100%);
+  --accent-gradient: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  --button-gradient: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+}
+
+body {
+  background: var(--bg-gradient);
+  color: #f8fafc;
+  min-height: 100vh;
+}
+
+.app-card {
+  background: var(--card-gradient);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.btn-primary {
+  background: var(--accent-gradient);
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+.terminal-output {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
