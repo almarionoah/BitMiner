@@ -3,10 +3,267 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BitMiner</title>
+    <meta name="theme-color" content="#0f172a" />
+    <meta name="description" content="BitMiner - High Performance Cryptocurrency Miner and Base64 Blab Converter" />
+    <title>BitMiner - Crypto Mining & Blab Conversion Engine</title>
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
-    <div id="app">BitMiner</div>
+    <div id="app" class="app-container">
+      <!-- Top Navigation & Branding -->
+      <header class="app-header">
+        <div class="brand-group">
+          <div class="brand-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M12 2L2 7l10 5 10-5-10-5z" />
+              <path d="M2 17l10 5 10-5" />
+              <path d="M2 12l10 5 10-5" />
+            </svg>
+          </div>
+          <div class="brand-text">
+            <h1 class="brand-title">BitMiner</h1>
+            <span class="brand-subtitle">v1.2.0 • Decentralized Node</span>
+          </div>
+        </div>
+
+        <!-- Menu Options: Mine & Convert -->
+        <nav class="app-nav" aria-label="Main navigation">
+          <button id="tab-mine-btn" class="nav-tab active" data-tab="mine">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+            </svg>
+            <span>Mine</span>
+          </button>
+          <button id="tab-convert-btn" class="nav-tab" data-tab="convert">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="17 1 21 5 17 9"></polyline>
+              <path d="M3 11V9a4 4 0 0 1 4-4h14"></path>
+              <polyline points="7 23 3 19 7 15"></polyline>
+              <path d="M21 13v2a4 4 0 0 1-4 4H3"></path>
+            </svg>
+            <span>Convert</span>
+          </button>
+        </nav>
+
+        <!-- Header Actions: PWA Install & Network Status -->
+        <div class="header-actions">
+          <div class="status-badge live">
+            <span class="status-dot"></span>
+            <span class="status-label">Node Active</span>
+          </div>
+          <button id="pwa-install-btn" class="pwa-install-btn hidden" title="Download BitMiner PWA">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="7 10 12 15 17 10"></polyline>
+              <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+            <span>Install App</span>
+          </button>
+        </div>
+      </header>
+
+      <!-- Dashboard Grid -->
+      <main class="main-content">
+        <!-- Left Control Column (Changes based on active tab) -->
+        <section class="module-panel">
+          <!-- VIEW: MINE -->
+          <div id="view-mine" class="tab-view active">
+            <div class="panel-header">
+              <div>
+                <h2 class="panel-title">Cryptocurrency Miner</h2>
+                <p class="panel-desc">Auto-generates base64 encrypted emails and key hashes into mined [blab] combinations.</p>
+              </div>
+              <div class="mining-state-pill" id="mining-state-indicator">Idle</div>
+            </div>
+
+            <!-- Mining Stats Cards -->
+            <div class="stats-grid">
+              <div class="stat-card">
+                <span class="stat-label">Hash Rate</span>
+                <span class="stat-value" id="stat-hashrate">0.00 MH/s</span>
+              </div>
+              <div class="stat-card">
+                <span class="stat-label">Mined Blabs</span>
+                <span class="stat-value" id="stat-mined-count">0</span>
+              </div>
+              <div class="stat-card">
+                <span class="stat-label">Pending Conversion</span>
+                <span class="stat-value highlight" id="stat-pending-count">0</span>
+              </div>
+            </div>
+
+            <!-- Mining Controls -->
+            <div class="card-control-section">
+              <div class="control-row">
+                <button id="toggle-mining-btn" class="btn btn-primary">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                  </svg>
+                  <span id="mining-btn-text">Start Mining</span>
+                </button>
+                <button id="mine-single-btn" class="btn btn-secondary">
+                  Mine Single Blab
+                </button>
+              </div>
+
+              <div class="mining-speed-selector">
+                <label for="mining-interval-select">Mining Generation Frequency:</label>
+                <select id="mining-interval-select" class="select-input">
+                  <option value="2200">Eco Pulse (2.2s)</option>
+                  <option value="1400" selected>Standard Hash (1.4s)</option>
+                  <option value="700">Turbo Boost (0.7s)</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Latest Mined Blab Details -->
+            <div class="data-preview-card">
+              <h3 class="preview-title">Active Mining Pipeline</h3>
+              <div class="preview-field">
+                <span class="field-tag">Generated Email (Raw):</span>
+                <span class="field-data mono" id="latest-raw-email">Waiting for miner engine...</span>
+              </div>
+              <div class="preview-field">
+                <span class="field-tag">Base64 Encrypted Email:</span>
+                <span class="field-data mono" id="latest-email-b64">--</span>
+              </div>
+              <div class="preview-field">
+                <span class="field-tag">Base64 Key Value:</span>
+                <span class="field-data mono" id="latest-key-b64">--</span>
+              </div>
+              <div class="preview-field highlight-field">
+                <span class="field-tag">Resulting [blab] Combination:</span>
+                <span class="field-data mono" id="latest-blab">--</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- VIEW: CONVERT -->
+          <div id="view-convert" class="tab-view">
+            <div class="panel-header">
+              <div>
+                <h2 class="panel-title">Data Conversion Engine</h2>
+                <p class="panel-desc">Converts generated [blab] records into verified crypto credits for [miner_identity_email].</p>
+              </div>
+            </div>
+
+            <!-- Conversion Configuration Form -->
+            <form id="conversion-form" class="conversion-form" onsubmit="return false;">
+              <div class="form-group">
+                <label for="input-miner-email" class="form-label">
+                  <span>Miner Identity Email <span class="code-var">[miner_identity_email]</span></span>
+                  <button type="button" id="btn-use-default-email" class="btn-text-action">Set Default</button>
+                </label>
+                <div class="input-wrap">
+                  <input 
+                    type="email" 
+                    id="input-miner-email" 
+                    class="text-input" 
+                    placeholder="e.g. satoshi.miner@bitmesh.org" 
+                    required
+                  />
+                </div>
+                <span class="form-hint">Specifies the authenticated identity address where conversion credits will be deposited.</span>
+              </div>
+
+              <div class="form-group">
+                <label for="input-selected-amount" class="form-label">
+                  <span>Selected Conversion Amount (BTC) <span class="code-var">[app_user_selected_amount]</span></span>
+                </label>
+                <div class="input-wrap">
+                  <input 
+                    type="number" 
+                    id="input-selected-amount" 
+                    class="text-input" 
+                    placeholder="0.0050" 
+                    step="0.0001" 
+                    min="0.0001" 
+                    max="10"
+                    value="0.0025"
+                    required
+                  />
+                </div>
+                <div class="amount-presets">
+                  <button type="button" class="btn-chip" data-amt="0.0010">0.001 BTC</button>
+                  <button type="button" class="btn-chip active" data-amt="0.0025">0.0025 BTC</button>
+                  <button type="button" class="btn-chip" data-amt="0.0050">0.005 BTC</button>
+                  <button type="button" class="btn-chip" data-amt="0.0100">0.01 BTC</button>
+                </div>
+              </div>
+
+              <div class="form-group toggle-group">
+                <div class="toggle-text">
+                  <span class="toggle-title">Auto-Convert Mined Data</span>
+                  <span class="toggle-subtitle">Automatically runs conversion algorithm for each [blab] as it populates.</span>
+                </div>
+                <label class="switch" for="toggle-auto-convert">
+                  <input type="checkbox" id="toggle-auto-convert" />
+                  <span class="slider round"></span>
+                </label>
+              </div>
+
+              <div class="conversion-actions">
+                <button id="btn-convert-all" class="btn btn-primary" type="button">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="23 4 23 10 17 10"></polyline>
+                    <polyline points="1 20 1 14 7 14"></polyline>
+                    <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+                  </svg>
+                  <span>Convert Pending Blabs (<span id="btn-pending-count">0</span>)</span>
+                </button>
+                <button id="btn-export-json" class="btn btn-secondary" type="button">
+                  Export Mined JSON
+                </button>
+              </div>
+            </form>
+
+            <!-- Converted Ledger Summary -->
+            <div class="stats-grid conversion-summary">
+              <div class="stat-card">
+                <span class="stat-label">Total Converted</span>
+                <span class="stat-value" id="stat-converted-count">0 blabs</span>
+              </div>
+              <div class="stat-card">
+                <span class="stat-label">Credited Balance</span>
+                <span class="stat-value highlight" id="stat-credited-balance">0.000000 BTC</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Right Feed Terminal Column -->
+        <section class="terminal-panel">
+          <div class="terminal-header">
+            <div class="terminal-title-group">
+              <div class="terminal-dots">
+                <span class="dot red"></span>
+                <span class="dot yellow"></span>
+                <span class="dot green"></span>
+              </div>
+              <span class="terminal-title">Live Feed Terminal</span>
+            </div>
+            <div class="terminal-actions">
+              <span class="terminal-badge" id="feed-count-badge">0 events</span>
+              <button id="terminal-clear-btn" class="terminal-action-btn" title="Clear Output">
+                Clear
+              </button>
+            </div>
+          </div>
+
+          <div class="terminal-body" id="terminal-feed" role="log" aria-live="polite">
+            <div class="terminal-line system">
+              <span class="term-time">[SYSTEM]</span>
+              <span class="term-msg">BitMiner engine initialized. Core variables [blab], [miner_identity_email], [app_user_selected_amount] loaded.</span>
+            </div>
+            <div class="terminal-line prompt">
+              <span class="term-time">[READY]</span>
+              <span class="term-msg">Select "Mine" to begin generating base64 email+key blabs, or configure "Convert" settings.</span>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
     <script type="module" src="/main.js"></script>
   </body>
 </html>
